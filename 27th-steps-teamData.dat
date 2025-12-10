@@ -1,0 +1,542 @@
+{
+    "CS4350-1": {
+        "name": "Project: SEELE",
+        "members": [
+            "FAN JIAYI",
+            "Liang Yifan",
+            "LIU JIABAO",
+            "Luo Haoyu",
+            "SHI JIEAO",
+            "WANG YUYANG"
+        ],
+        "videoLink": "https://youtu.be/Ku0Hf-VadXI",
+        "posterLink": "https://i.postimg.cc/TPwLsyrf/poster.jpg"
+    },
+    "CS4350-2": {
+        "name": "Horror Party Game Thingy",
+        "members": [
+            "CLIFF KOES",
+            "LIM JUN HAN, ALVIN",
+            "LUU DOAN GIA",
+            "Nicholas Chong Yao Xuan",
+            "Tham Yao Xiang",
+            "YONG JUN XI"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/CeGsJS0.png"
+    },
+    "CS4350-3": {
+        "name": "Farmer's Survival",
+        "members": [
+            "FU MING JUN, DOMINIC",
+            "JAWAD AFTHAB",
+            "KWOH JIN YUAN",
+            "MA YIRUI",
+            "ONG JIA JUN CLIF",
+            "ZHANG PUYU"
+        ],
+        "videoLink": "https://youtu.be/bGISrokMICc",
+        "posterLink": ""
+    },
+    "CS4350-4": {
+        "name": "r\u00eaver",
+        "members": [
+            "Kenvyn Kwek Shiu Chien",
+            "Lee Thien My",
+            "LIM XIU JIA",
+            "NG WEI CHONG JAVIER",
+            "Toh Li Yuan",
+            "Wu Jingya"
+        ],
+        "videoLink": "https://youtu.be/5FvMViZDzFs",
+        "posterLink": "https://i.imgur.com/TeeDwfv.jpeg"
+    },
+    "CS4350-5": {
+        "name": "INCARDNITO",
+        "members": [
+            "ANG SONG YEE",
+            "Chua Zen Khoon",
+            "LOH JIN HUN",
+            "TAN HONG JUN"
+        ],
+        "videoLink": "https://www.youtube.com/watch?v=MElL-xdW51k",
+        "posterLink": "https://i.imgur.com/oWsQYhq.png"
+    },
+    "CS4350-6": {
+        "name": "Mente Fracta",
+        "members": [
+            "GERARD JEREMIAH MATTHEW",
+            "LAI YIWEN",
+            "LI CHENGZHEN",
+            "LIN YUXIANG"
+        ],
+        "videoLink": "https://youtu.be/e16G1Yrz94s",
+        "posterLink": "https://i.postimg.cc/pdPM57PV/CS4350-Group-6-Poster.png"
+    },
+    "CS4350-7": {
+        "name": "Dancing Spark, Happy Neurons",
+        "members": [
+            "Zhu Tianqi"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.ibb.co/ympQCsnF/CS4350poster-Print-1.jpg"
+    },
+    "CS5224-1": {
+        "name": "ThinkBeforeClick",
+        "members": [
+            "Ni Chenyu",
+            "Wu Yijun",
+            "Zou Zhihua",
+            "Ren Yilun",
+            "Yu Jiahui"
+        ],
+        "videoLink": "https://youtu.be/-xLeh2evZrI",
+        "posterLink": "https://imgur.com/zNovTul.jpeg"
+    },
+    "CS5224-2": {
+        "name": "Desstops At Your Service (DAYS)",
+        "members": [
+            "Huan Zhi Hao Wilson",
+            "LIM ZHENG LIANG",
+            "SANGLAOR PEERANAT",
+            "TAN CHAO CHING"
+        ],
+        "videoLink": "https://youtu.be/9u0-q_oTtro",
+        "posterLink": "https://imgur.com/GckynKl.png"
+    },
+    "CS6101-1": {
+        "name": "CompRAG: Improving relationship modelling for multi-hop retrieval",
+        "members": [
+            "Vangmay sachan",
+            "Indraneel Paranjape",
+            "Nayanthara Prathap",
+            "Nura Tamton"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-2": {
+        "name": "Mixture-of-LoRA-Experts (MoLE) for Continual Learning in Generative Retrieval",
+        "members": [
+            "Benjamin Chek Jun Kiet",
+            "Choong Kai Zhe",
+            "zak t"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-3": {
+        "name": "Small LM + RAG",
+        "members": [
+            "jonathan",
+            "Shyamal Narang",
+            "jfkoh"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-4": {
+        "name": "Cutting Redundant Knowledge for Effective RAG",
+        "members": [
+            "Ervin Teo",
+            "mingyulee",
+            "Swislar"
+        ],
+        "videoLink": "",
+        "posterLink": "https://raw.githubusercontent.com/swislar/RACo-Deduplication/main/assets/04-RAG_Info_Deduplication.jpg"
+    },
+    "CS6101-5": {
+        "name": "ScholarAI: Simplifying interdisciplinary AI research using Graph RAGs",
+        "members": [
+            "rishav ghosh",
+            "Zaidan Sani",
+            "Nicholas Cheng",
+            "Qianbo Dong"
+        ],
+        "videoLink": "",
+        "posterLink": "https://zaidansani.github.io/CS6101-5.jpg"
+    },
+    "CS6101-6": {
+        "name": "MathRAG: Retrieval-Augmented Generation for Mathematical Problem Solving",
+        "members": [
+            "Kseniia Petukhova",
+            "Hoang Nguyen"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-7": {
+        "name": "Unknown",
+        "members": [
+            "Huang Chao Ming"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-8": {
+        "name": "RL-CoT: Enhancing Information Retrieval with Reinforcement Learning and Chain-of-Thought",
+        "members": [
+            "Li Zizhen",
+            "JC Jiang",
+            "Yiqi Wang",
+            "Zhu Tongyao"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-9": {
+        "name": "Automatic Accelerator Code Generation via LLM Agentic Workflow",
+        "members": [
+            "Takanori Aoki"
+        ],
+        "videoLink": "",
+        "posterLink": "https://imgur.com/a/8NLdTpe.jpg"
+    },
+    "CS6101-10": {
+        "name": "RAG Safety",
+        "members": [
+            "Ruiwen Zhou",
+            "Sahej Agarwal",
+            "Sahajpreet Singh",
+            "Jundong Xu"
+        ],
+        "videoLink": "",
+        "posterLink": "https://github.com/SkyRiver-2000/CS6101-Asset/blob/main/Poster_cs6101.png"
+    },
+    "CS6101-11": {
+        "name": "Contexts Ground Discourse",
+        "members": [
+            "Miao Yisong"
+        ],
+        "videoLink": "",
+        "posterLink": "https://yisong.me/publications/steps25-ContextGrounding.png"
+    },
+    "CS6101-12": {
+        "name": "RAG Efficiency in CoT Reasoning",
+        "members": [
+            "Xinpeng Liu",
+            "Ng Xuan Hern",
+            "Shweta Patel",
+            "oshan"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-13": {
+        "name": "Improving Retrieval with Graph Pruning",
+        "members": [
+            "Lin Hong Yi",
+            "Aaron Toh",
+            "Yong",
+            "Frederick"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-14": {
+        "name": "A Unified Benchmark Suite for Retrieval-Augmented Speculative Decoding",
+        "members": [
+            "Tan Chien Hao",
+            "Benn Tan",
+            "Ada Ho",
+            "Kwan Tze"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "CS6101-16": {
+        "name": "Beyond the Crowd: LLM-Augmented Community Notes for Governing Health Misinformation",
+        "members": [
+            "Wu Jiaying",
+            "Fu Zihang"
+        ],
+        "videoLink": "",
+        "posterLink": "https://github.com/jiayingwu19/27th-steps/blob/master/cs6101-16-steps-poster.jpg"
+    },
+    "IS4108-1": {
+        "name": "SLA",
+        "members": [
+            "LIM YU DE",
+            "ONG SI HUI",
+            "QUEK SER WEI",
+            "SUMIT SANJAY SHINDE",
+            "XIA YILIN"
+        ],
+        "videoLink": "https://youtu.be/OoS8T235cOE",
+        "posterLink": "https://i.imgur.com/lkLZGgy.png"
+    },
+    "IS4108-2": {
+        "name": "Maki AI",
+        "members": [
+            "ALVIN TOR JIE WEI",
+            "CHONG ZU YUAN",
+            "CHOW YIP HERN",
+            "KOH YAN ER",
+            "KOO JAY-LYNN",
+            "SHANNON NG JIA XUAN",
+            "Alvin Tor Jie Wei",
+            "Chow Yip Hern",
+            "Koh Yan Er"
+        ],
+        "videoLink": "https://youtu.be/OpqocPvLPbM",
+        "posterLink": "https://aepynfsgveezkmygijez.supabase.co/storage/v1/object/public/steps/Maki%20AI%20Poster.png"
+    },
+    "IS4108-3": {
+        "name": "URA",
+        "members": [
+            "EE YONG XIAN JUSTIN",
+            "KOH XIN NING",
+            "KONG HOI TEC",
+            "LEE WEE CHENG",
+            "TNG ZHE XUAN",
+            "Koh Xin Ning",
+            "EE YONG XIAN JUSTIN",
+            "Kong Hoi Tec",
+            "LEE WEE CHENG",
+            "Tng Zhe Xuan"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.postimg.cc/FRnJnZMY/poster.png"
+    },
+    "IS4108-4": {
+        "name": "Tutiful",
+        "members": [
+            "Alastair Ng Yu Sen",
+            "CHUA ZHENG WEI, BRIAN",
+            "KYAW TOE KHANT",
+            "MATTHEW LOW XIAN ZHENG",
+            "TARSHA LIM JIA XUAN"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/MZ48wOT.png"
+    },
+    "IS4108-5": {
+        "name": "Knotly",
+        "members": [
+            "ANG JON MING",
+            "GOH ENG ZHONG JOSHUA",
+            "GOH XIN LE, LUKE",
+            "QUAH HAN RONG, GLENN",
+            "TANG MING JIE, RYAN",
+            "TRISTAN TAN JIN HAU"
+        ],
+        "videoLink": "https://youtu.be/dAADI66_kJg",
+        "posterLink": "https://i.imgur.com/7nar09P.png"
+    },
+    "IS4108-6": {
+        "name": "Job Portal",
+        "members": [
+            "BHOJWANI YASH MANOJ",
+            "JAVIER YEOW JUN YU",
+            "MANIMARAN PRAMOTH",
+            "REINA TNG XIN RU",
+            "SOH JIAYUAN JOANA",
+            "TACHIHARA MIKIO",
+            "Tachihara Mikio"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/BbNoVOA.png"
+    },
+    "IS4108-7": {
+        "name": "Reloop.",
+        "members": [
+            "DU MENGWEI",
+            "LIN HAO",
+            "SEAH QIAO LING",
+            "SEE JIA YIN",
+            "TAN YI NING",
+            "WONG HONG JUAN, AMELIA",
+            "Seah Qiao Ling"
+        ],
+        "videoLink": "",
+        "posterLink": "https://imgur.com/snxCU3r.png"
+    },
+    "IS4108-8": {
+        "name": "Trippy",
+        "members": [
+            "DARRYL EE WEI JUN",
+            "REGINALD LUCAS YANG LI DI",
+            "SIM YI QIAN MICHEL",
+            "TAN EU REN",
+            "ZACC CHAN YUXUN",
+            "ZARA MIN TAN"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/jBoIXqV.png"
+    },
+    "IS4108-9": {
+        "name": "AI Stead Mai",
+        "members": [
+            "HAW PEI YI",
+            "IAN TAN SHINN WEI",
+            "LEE YANG, SEAN",
+            "TAN WEN LING, NINETT",
+            "ZACKEUS CHOO KAI JIE",
+            "HAW PEI YI"
+        ],
+        "videoLink": "https://youtu.be/hdlAtYXaEyY",
+        "posterLink": "https://imgur.com/uD959ZT.png"
+    },
+    "IS4250-1": {
+        "name": "Smart Sked:  Digital Rehabilitation Scheduling Solution",
+        "members": [
+            "DE CONCEICAO LEANDREA JADE",
+            "NG YUN SI, ALICIA",
+            "SEE MAN TENG",
+            "SEETOH SHAO KANG",
+            "Tay Jean Yee"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4250-2": {
+        "name": "Bot, please help me check?",
+        "members": [
+            "CHEN SIHAO",
+            "CHONG ZU YUAN",
+            "KEE WEI KUANG",
+            "KOBY CHUA YI WEI",
+            "LEWIS THAM JEE PENG"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/KJT3CDh.jpeg"
+    },
+    "IS4250-3": {
+        "name": "Automated Nursing Roster System",
+        "members": [
+            "ADRIAN LIM HONG FU",
+            "DYLAN WONG KANG HAN",
+            "GILLIAN GOH LIXUAN",
+            "Quak Fu Wen, Aaron",
+            "YEO WEI SHENG"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4250-4": {
+        "name": "AI-Enabled Patient Experience Feedback Analytics Platform",
+        "members": [
+            "Carine Ang Pei Qi",
+            "HAW PEI YI",
+            "JOHNASIR SHWETA JOSALYN",
+            "LETICIA KOH SU YI",
+            "NATHAN NG KAI"
+        ],
+        "videoLink": "https://youtu.be/TeV_fwB7ib4",
+        "posterLink": "https://i.imgur.com/hYfnBBZ.png"
+    },
+    "IS4250-5": {
+        "name": "Reducing Burden, Accelerating Safety: A Data Pipeline for Nurse Managers",
+        "members": [
+            "CHERYL ANG",
+            "LE MINH PHONG",
+            "ONG MIN CHLOE",
+            "SU SHWE YEE",
+            "Yip Rong Yu, Natasha"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/Sw71ot8.png"
+    },
+    "IT5007-1": {
+        "name": "LingoDingo",
+        "members": [
+            "Foo Chuan Hui, Joshua",
+            "Yash Mishra"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IT5007-2": {
+        "name": "Dialog Tree",
+        "members": [
+            "Li Ran",
+            "Li Jiaming",
+            "Wu Jiangang"
+        ],
+        "videoLink": "https://youtu.be/SJMx1nMBqS4",
+        "posterLink": "https://i.imgur.com/iNZdO5R.png"
+    },
+    "IT5007-3": {
+        "name": "AI Life Coach",
+        "members": [
+            "He Man",
+            "Zhao Hongfeng",
+            "Li BoYang"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IT5007-4": {
+        "name": "AIMaster",
+        "members": [
+            "Chen Jiajin",
+            "Fajar Ibnu Fatihan",
+            "Liu Zhenkun"
+        ],
+        "videoLink": "",
+        "posterLink": "https://storage.googleapis.com/ai_master_assets/STEP_AIMaster_Poster.jpg"
+    },
+    "IT5007-5": {
+        "name": "Yaari",
+        "members": [
+            "SARAVANAN SNEHA",
+            "FELICIA FARM LI WEN"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/ekGCbzz.jpeg"
+    },
+    "IT5007-6": {
+        "name": "Exam Buddy",
+        "members": [
+            "Wang Siqin",
+            "Huang Yuchen"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/AlagGNV.jpeg"
+    },
+    "IT5007-7": {
+        "name": "Cr3o \u2014 Craft Your 3d Creation",
+        "members": [
+            "Wu Xingxia",
+            "Lei Shuyang",
+            "Liu Yan"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IT5007-8": {
+        "name": "NimHaha: Smart Dynamic Pricing for Fresh Goods",
+        "members": [
+            "Tan Zi Qi",
+            "Nelson Toh Yun Sheng",
+            "Tok Ru Jin"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/JgbpzwE.png"
+    },
+    "MComp-FYP-2": {
+        "name": "Rich Within Reach",
+        "members": [
+            "ANG JING XUAN SELWYN"
+        ],
+        "videoLink": "https://youtu.be/a6WQ4pFwo9Y?si=0zrO02mrnYrQpv0N",
+        "posterLink": "https://imgur.com/g2pbLvy.png"
+    },
+    "MComp-FYP-6": {
+        "name": "Exploring effects of Reversible Computing on Energy Efficiency",
+        "members": [
+            "Sherisse Tan Jing Wen"
+        ],
+        "videoLink": "",
+        "posterLink": "https://i.imgur.com/HjmCa5D.jpeg"
+    },
+    "MComp-FYP-7": {
+        "name": "Kootu - Social media for Theatre Artists",
+        "members": [
+            "Mai Ting Kai",
+            "Nathaniel Angelo Prince Blanco Calimag"
+        ],
+        "videoLink": "https://youtu.be/vq4zBGFb-XE",
+        "posterLink": "https://imgur.com/7vVEyhp.jpg"
+    }
+}

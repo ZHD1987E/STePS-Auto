@@ -21,7 +21,7 @@ def do_download(url, filename):
 errorlog = open("errorlog.md", "w")
 errorlog.write(f"# Error Log\n\n")
 ## Downloading videos
-with open("26th-steps-teamData.dat", "r") as f:
+with open("27th-steps-teamData.dat", "r") as f:
     data = json.load(f)
     for courseName, data in data.items():
         vLink = data["videoLink"]
