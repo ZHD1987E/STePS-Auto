@@ -1,8 +1,12 @@
-CP3108,CP3108 Independent Work (Chair: A/Prof. Martin Henz),3,FALSE,TRUE
-CS3203,CS3203 Software Engineering Project (Chair: Dr. Ganesh Neelakanta Iyer),1,FALSE,TRUE
-CS3217,CS3217 Software Engineering on Modern Application Platforms (Chair: Dr. Leong Wai Kay),1,FALSE,TRUE
-CS3247,CS3247 Game Development (Chair: Dr. Bhojan Anand),3,FALSE,TRUE
-CS4240,CS4240 Interaction Design for Virtual and Augmented Reality (Chair: Dr. Bhojan Anand),3,FALSE,TRUE
-CS4248,"CS4248 Natural Language Processing (Chair: A/Prof. Min Yen KAN, Dr Christian Von Der Weth)",3,FALSE,TRUE
-MComp-FYP,"FYP-MComp Final Year Project/MComp Thesis (Chair: A/Prof. Martin Henz, Dr Ganesh Neelakanta Iyer, A/Prof. Bimlesh Wadhwa )",3,TRUE,TRUE
-IT5007,IT5007 Software Engineering on Application Architecture (Chair: Dr. Prasanna Karthik Vairam),2,TRUE,FALSE
+Courses,Title,Instructor,PrizeCount,IsGraduate,HM
+CS3217,Software Engineering on Modern Application Platforms,Dr. Leong Wai Kay,0,FALSE,TRUE
+CS3247,Game Development,A/Prof. Bhojan Anand,3,FALSE,FALSE
+CS4240,Interaction Design for Virtual and Augmented Reality,A/Prof. Bhojan Anand,2,FALSE,FALSE
+CS4248,Natural Language Processing,"A/Prof. Kan Min-Yen, Dr. Christian Von Der Weth",3,FALSE,FALSE
+CS5224,Cloud Computing,A/Prof. Anandha Gopalan,1,FALSE,FALSE
+FYP-IP,Final Year Project and Independet Project,Dr. Prabhu NATARAJAN,3,FALSE,FALSE
+IS4151/IS5451,AIoT Solutions and Development,A/Prof. Tan Wee Kek,1,FALSE,FALSE
+IS5126,Hands-on with Applied Analytics,Dr. Prakash Chandra Sukhwal,0,FALSE,TRUE
+IT5007,Software Engineering on Application Architecture,Dr. Prasanna Karthik Vairam,2,FALSE,FALSE
+MComp,MComp Thesis,Dr. Prasanna Karthik Vairam,2,FALSE,FALSE
+CP3108,Independet Work,"A/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka",3,FALSE,FALSE

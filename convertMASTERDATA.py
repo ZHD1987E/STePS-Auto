@@ -1,12 +1,6 @@
-import csv
-import json
+import pandas as pd
 
-jOUT = {}
-f1 = open('MASTERDATACSV.csv', 'r')
-f2 = open('28th-steps-awardData.dat', 'w')
-csvreader = csv.reader(f1)
-for thing in list(csvreader):
-    jOUT[thing[0]] = {"name": thing[1], "maxCerts": int(thing[2]), "isGraduate": thing[3] == "TRUE", "ranked": thing[4] == "TRUE"}
-f1.close()
-f2.write(json.dumps(jOUT, indent=4))
-f2.close()
+data = pd.read_csv("MASTERDATACSV.csv")
+data["AwardingTitle"] = data["Courses"] + " " + data["Title"] + f" (Chair: {data["Instructor"]})"
+data.set_index("Courses", inplace=True)
+data.to_json("28th-steps-awardData.dat", orient="index", indent=4)

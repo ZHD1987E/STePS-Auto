@@ -1,0 +1,90 @@
+{
+    "CS3217":{
+        "Title":"Software Engineering on Modern Application Platforms",
+        "Instructor":"Dr. Leong Wai Kay",
+        "PrizeCount":0,
+        "IsGraduate":false,
+        "HM":true,
+        "AwardingTitle":"CS3217 Software Engineering on Modern Application Platforms (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "CS3247":{
+        "Title":"Game Development",
+        "Instructor":"A\/Prof. Bhojan Anand",
+        "PrizeCount":3,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"CS3247 Game Development (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "CS4240":{
+        "Title":"Interaction Design for Virtual and Augmented Reality",
+        "Instructor":"A\/Prof. Bhojan Anand",
+        "PrizeCount":2,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"CS4240 Interaction Design for Virtual and Augmented Reality (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "CS4248":{
+        "Title":"Natural Language Processing",
+        "Instructor":"A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth",
+        "PrizeCount":3,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"CS4248 Natural Language Processing (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "CS5224":{
+        "Title":"Cloud Computing",
+        "Instructor":"A\/Prof. Anandha Gopalan",
+        "PrizeCount":1,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"CS5224 Cloud Computing (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "FYP-IP":{
+        "Title":"Final Year Project and Independet Project",
+        "Instructor":"Dr. Prabhu NATARAJAN",
+        "PrizeCount":3,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"FYP-IP Final Year Project and Independet Project (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "IS4151\/IS5451":{
+        "Title":"AIoT Solutions and Development",
+        "Instructor":"A\/Prof. Tan Wee Kek",
+        "PrizeCount":1,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"IS4151\/IS5451 AIoT Solutions and Development (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "IS5126":{
+        "Title":"Hands-on with Applied Analytics",
+        "Instructor":"Dr. Prakash Chandra Sukhwal",
+        "PrizeCount":0,
+        "IsGraduate":false,
+        "HM":true,
+        "AwardingTitle":"IS5126 Hands-on with Applied Analytics (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "IT5007":{
+        "Title":"Software Engineering on Application Architecture",
+        "Instructor":"Dr. Prasanna Karthik Vairam",
+        "PrizeCount":2,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"IT5007 Software Engineering on Application Architecture (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "MComp":{
+        "Title":"MComp Thesis",
+        "Instructor":"Dr. Prasanna Karthik Vairam",
+        "PrizeCount":2,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"MComp MComp Thesis (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    },
+    "CP3108":{
+        "Title":"Independet Work",
+        "Instructor":"A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka",
+        "PrizeCount":3,
+        "IsGraduate":false,
+        "HM":false,
+        "AwardingTitle":"CP3108 Independet Work (Chair: 0                                     Dr. Leong Wai Kay\n1                                  A\/Prof. Bhojan Anand\n2                                  A\/Prof. Bhojan Anand\n3       A\/Prof. Kan Min-Yen, Dr. Christian Von Der Weth\n4                               A\/Prof. Anandha Gopalan\n5                                  Dr. Prabhu NATARAJAN\n6                                   A\/Prof. Tan Wee Kek\n7                           Dr. Prakash Chandra Sukhwal\n8                           Dr. Prasanna Karthik Vairam\n9                           Dr. Prasanna Karthik Vairam\n10    A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr....\nName: Instructor, dtype: str)"
+    }
+}
