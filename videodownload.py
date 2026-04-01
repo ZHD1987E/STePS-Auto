@@ -5,9 +5,6 @@
 ## Importing the neccessary libraries
 import yt_dlp
 import json
-
-
-
 def do_download(url, filename):
     ydl_opts = {
         'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]',

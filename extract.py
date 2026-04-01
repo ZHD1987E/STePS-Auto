@@ -14,6 +14,7 @@ print("Downloading done.")
 
 ## Opening the neccessary files
 print("Writing files...")
+f1 = open("28th-steps-videoLinks.md", "w", encoding = "utf-8") # required for video team to add (manually)
 f2 = open("28th-steps-projectnames.md", "w", encoding = "utf-8")
 f4 = open("28th-steps-teamData.dat", "w", encoding = "utf-8") # required for awards processing
 awardJSONDATA = {}
@@ -34,10 +35,12 @@ for track in theJSON:
         projectMEMBERS = list(map(lambda x: nameDCT[x] if x in nameDCT else "Unknown", project["members"]))
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
+        f1.write(f"{trackCODE}-{projectNUMBER}: {projectVIDEOURL} \n\n")
         awardJSONDATA[f"{trackCODE}-{projectNUMBER}"] = {"name": projectNAME, "members": projectMEMBERS, "videoLink": projectVIDEOURL, "posterLink": projectPOSTERURL}
 
 f4.write(json.dumps(awardJSONDATA, indent = 4))
 ## Closing the files
 f2.close()
 f4.close()
+f1.close()
 print("Files written. Terminating script.")
