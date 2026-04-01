@@ -1,5 +1,5 @@
 function fetchCSVData() {
-  var url = "https://raw.githubusercontent.com/ZHD1987E/26th-STePS-Automation/refs/heads/main/26th-steps-awardees.csv"; // Replace with your actual CSV URL
+  var url = "https://raw.githubusercontent.com/ZHD1987E/28th-STePS-Automation/refs/heads/main/28th-steps-awardees.csv"; // Replace with your actual CSV URL
   var response = UrlFetchApp.fetch(url);
   var csvData = response.getContentText(); // Get the CSV as text
   var data = Utilities.parseCsv(csvData); // Convert CSV to a 2D array
