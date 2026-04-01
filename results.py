@@ -8,13 +8,13 @@ import csv
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
 
 theAPIJSON = requests.get("https://uvents.nus.edu.sg/api/event/28th-steps/vote").json()
-theMASTERDATA = open("26th-steps-awardData.dat", "r", encoding = "utf-8")
+theMASTERDATA = open("28th-steps-awardData.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
-awardsDATA = open("26th-steps-teamData.dat", "r", encoding = "utf-8")
+awardsDATA = open("28th-steps-teamData.dat", "r", encoding = "utf-8")
 awardsJSON = json.load(awardsDATA)
-csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
+csvDATAFILE = open("28th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
-theWinningTeams = open("26th-steps-winningteams.md", "w")
+theWinningTeams = open("28th-steps-winningteams.md", "w")
 defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERUNRANKED = "Honorable Mention"
 defaultCERTNUMBER = 3
