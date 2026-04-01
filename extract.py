@@ -9,13 +9,13 @@ import json
 
 ## Getting the API data from UVENTS
 print("Downloading data from UVENTS...")
-theJSON = requests.get("https://uvents.nus.edu.sg/api/event/27th-steps/moduleTracks").json()
+theJSON = requests.get("https://uvents.nus.edu.sg/api/event/28th-steps/moduleTracks").json()
 print("Downloading done.")
 
 ## Opening the neccessary files
 print("Writing files...")
-f2 = open("27th-steps-projectnames.md", "w", encoding = "utf-8")
-f4 = open("27th-steps-teamData.dat", "w", encoding = "utf-8") # required for awards processing
+f2 = open("28th-steps-projectnames.md", "w", encoding = "utf-8")
+f4 = open("28th-steps-teamData.dat", "w", encoding = "utf-8") # required for awards processing
 awardJSONDATA = {}
 ## Processing data in JSON format
 for track in theJSON:

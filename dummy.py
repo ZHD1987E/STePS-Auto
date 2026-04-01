@@ -6,9 +6,9 @@ import csv
 # The only OTHER option is to manually tag on the data CSV file and then have Google Apps Script manually split the required data.
 # RUN THIS MANUALLY AFTER RESULTS ARE KNOWN!
 
-theMASTERDATA = open("26th-steps-awardData.dat", "r", encoding = "utf-8")
+theMASTERDATA = open("28th-steps-awardData.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
-csvDATAFILE = open("26th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
+csvDATAFILE = open("28th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
 defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERUNRANKED = "Honorable Mention"
