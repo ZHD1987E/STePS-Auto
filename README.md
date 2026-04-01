@@ -8,6 +8,8 @@ Since NUS Computing will celebrate some anniversary this time round (and they ha
 
 Therefore, to ease that workflow (especially if 100+ teams were to exhibit at once), I decided to create a central webscraper where people can retrive the needful.
 
+Update: The 28th STePS resurrected this scraper. Therefore, this API thingy will continue to exist with updates as I find better ways to automate workflow.
+
 # I thought it was a webscraper? Why did it now use APIs?
 
 Then, someone told me that it's possible to now get the API instead of scraping web data, which means that data syncing can now be done much faster.
