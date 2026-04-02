@@ -1,9 +1,9 @@
 import json
 import csv
 
-theMASTERDATA = open("28th-steps-awardData.dat", "r", encoding = "utf-8")
+theMASTERDATA = open("awardData.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
-csvDATAFILE = open("28th-steps-awardees.csv", "w", newline="", encoding = "utf-8")
+csvDATAFILE = open("awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
 defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
 defaultCERTORDERUNRANKED = "Honorable Mention"

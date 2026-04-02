@@ -11,10 +11,10 @@ undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean,
 gradSIGN = "Prof. Chan Mun Choon\nVice Dean, Graduate Studies"
 
 with open("results.json", "r", encoding="utf-8") as f_api, \
-     open("28th-steps-awardData.dat", "r", encoding="utf-8") as f_master, \
-     open("28th-steps-teamData.dat", "r", encoding="utf-8") as f_teams, \
-     open("28th-steps-awardees.csv", "w", newline="", encoding="utf-8") as csvDATAFILE, \
-     open("28th-steps-winningteams.md", "w", encoding="utf-8") as theWinningTeams:
+     open("awardData.dat", "r", encoding="utf-8") as f_master, \
+     open("teamData.dat", "r", encoding="utf-8") as f_teams, \
+     open("awardees.csv", "w", newline="", encoding="utf-8") as csvDATAFILE, \
+     open("winningteams.md", "w", encoding="utf-8") as theWinningTeams:
 
     apiJSON = json.load(f_api)
     masterJSON = json.load(f_master)

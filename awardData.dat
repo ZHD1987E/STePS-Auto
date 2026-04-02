@@ -35,7 +35,7 @@
         "Title":"Cloud Computing",
         "Instructor":"A\/Prof. Anandha Gopalan",
         "PrizeCount":1,
-        "IsGraduate":false,
+        "IsGraduate":true,
         "HM":false,
         "AwardingTitle":"CS5224 Cloud Computing (Chair: A\/Prof. Anandha Gopalan)"
     },
@@ -59,7 +59,7 @@
         "Title":"Hands-on with Applied Analytics",
         "Instructor":"Dr. Prakash Chandra Sukhwal",
         "PrizeCount":0,
-        "IsGraduate":false,
+        "IsGraduate":true,
         "HM":true,
         "AwardingTitle":"IS5126 Hands-on with Applied Analytics (Chair: Dr. Prakash Chandra Sukhwal)"
     },
@@ -67,7 +67,7 @@
         "Title":"Software Engineering on Application Architecture",
         "Instructor":"Dr. Prasanna Karthik Vairam",
         "PrizeCount":2,
-        "IsGraduate":false,
+        "IsGraduate":true,
         "HM":false,
         "AwardingTitle":"IT5007 Software Engineering on Application Architecture (Chair: Dr. Prasanna Karthik Vairam)"
     },
@@ -75,7 +75,7 @@
         "Title":"MComp Thesis",
         "Instructor":"Dr. Prasanna Karthik Vairam",
         "PrizeCount":2,
-        "IsGraduate":false,
+        "IsGraduate":true,
         "HM":false,
         "AwardingTitle":"MComp MComp Thesis (Chair: Dr. Prasanna Karthik Vairam)"
     },

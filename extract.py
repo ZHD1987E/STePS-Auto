@@ -14,9 +14,9 @@ print("Downloading done.")
 
 ## Opening the neccessary files
 print("Writing files...")
-f1 = open("28th-steps-videoLinks.md", "w", encoding = "utf-8") # required for video team to add (manually)
-f2 = open("28th-steps-projectnames.md", "w", encoding = "utf-8")
-f4 = open("28th-steps-teamData.dat", "w", encoding = "utf-8") # required for awards processing
+f1 = open("videoLinks.md", "w", encoding = "utf-8") # required for video team to add (manually)
+f2 = open("projectnames.md", "w", encoding = "utf-8")
+f4 = open("teamData.dat", "w", encoding = "utf-8") # required for awards processing
 awardJSONDATA = {}
 ## Processing data in JSON format
 for track in theJSON:

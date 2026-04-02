@@ -77,29 +77,29 @@ CS4248-1: 1
 
 CS4248-3: 3 
 
-CS4248-6: 7 
+CS4248-6: 6 
 
-CS4248-7: 10 
+CS4248-7: 7 
 
-CS4248-10: 11 
+CS4248-10: 10 
 
-CS4248-11: 14 
+CS4248-11: 11 
 
-CS4248-14: 21 
+CS4248-14: 14 
 
-CS4248-21: 23 
+CS4248-21: 21 
 
-CS4248-23: 24 
+CS4248-23: 23 
 
-CS4248-24: 29 
+CS4248-24: 24 
 
-CS4248-29: 30 
+CS4248-29: 29 
 
-CS4248-30: 38 
+CS4248-30: 30 
 
-CS4248-38: 40 
+CS4248-38: 38 
 
-CS4248-40: EXMABSA 
+CS4248-40: 40 
 
 # CS5224 Cloud Computing
 CS5224-1: RetailMind 
@@ -143,6 +143,7 @@ FYP-IP-13: A Just-In-Time Compiler for Python in the Browser
 
 FYP-IP-14: CustomAIzEd: An LLM-Powered Gamified and Collaborative Platform for Personalized AI Education 
 
+# IS4151 AIoT Solutions and Development
 # IS5126 Hands-on with Applied Analytics
 IS5126-1: Twit‑Nalytics: A new-age viral tweet predictor 
 
@@ -153,13 +154,15 @@ IS5126-3: SONAR (Supply-chain Optimization and Network Analysis for Resilience)
 # IT5007 Software Engineering on Application Architecture
 IT5007-1: TripShield 
 
-IT5007-2: AI Arena 
+IT5007-2: The Round Table 
 
 IT5007-3: Nomie 
 
 IT5007-4: LuminaQuest 
 
-IT5007-5: A 
+IT5007-5: skillspulse 
+
+IT5007-6: CosmicVault 
 
 IT5007-7: ClearFlow 
 

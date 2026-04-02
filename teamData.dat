@@ -50,7 +50,7 @@
             "Wong Kin Chong"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.postimg.cc/xT4Zn6H2/Academic-Poster-with-Cosmic-Space-Theme-(1).png"
     },
     "CP3108-8": {
         "name": "Conductor Migration",
@@ -437,7 +437,7 @@
         "posterLink": ""
     },
     "CS4248-6": {
-        "name": "7",
+        "name": "6",
         "members": [
             "HUANG ZEKAI",
             "SU SIYING",
@@ -449,7 +449,7 @@
         "posterLink": ""
     },
     "CS4248-7": {
-        "name": "10",
+        "name": "7",
         "members": [
             "Lei Shuyang",
             "He Man",
@@ -462,7 +462,7 @@
         "posterLink": ""
     },
     "CS4248-10": {
-        "name": "11",
+        "name": "10",
         "members": [
             "Keagan Pang",
             "Toh Pin Ren",
@@ -475,7 +475,7 @@
         "posterLink": ""
     },
     "CS4248-11": {
-        "name": "14",
+        "name": "11",
         "members": [
             "GARG LAVANYA",
             "KUVAWALA MUSTAFA ABBAS",
@@ -487,7 +487,7 @@
         "posterLink": ""
     },
     "CS4248-14": {
-        "name": "21",
+        "name": "14",
         "members": [
             "CHENG ANQI, ANGEL",
             "HOU XINXIANG",
@@ -501,7 +501,7 @@
         "posterLink": ""
     },
     "CS4248-21": {
-        "name": "23",
+        "name": "21",
         "members": [
             "UJJWAL GAURAV",
             "CHEN YU, BRYAN",
@@ -511,13 +511,14 @@
             "Tan Sze Ling",
             "TAN SZE LING",
             "XU LUOQI",
-            "Josh Thoo Jen Sen"
+            "Josh Thoo Jen Sen",
+            "Chen Yu Bryan"
         ],
         "videoLink": "",
         "posterLink": ""
     },
     "CS4248-23": {
-        "name": "24",
+        "name": "23",
         "members": [
             "LIU HAOTIAN",
             "KAUNG HTET WAI YAN",
@@ -530,7 +531,7 @@
         "posterLink": ""
     },
     "CS4248-24": {
-        "name": "29",
+        "name": "24",
         "members": [
             "MUHAMMAD SALMAN AL FARISI",
             "ABISHAI ANARGYA HALIM",
@@ -543,20 +544,21 @@
         "posterLink": ""
     },
     "CS4248-29": {
-        "name": "30",
+        "name": "29",
         "members": [
             "LEE POE AIK",
             "CHARLENE TEOH CHIA YING",
             "KOH WEN JIN VERA",
             "LEE ZHI YI",
             "MARTIN NG",
-            "LIM JING QUAN AARON"
+            "LIM JING QUAN AARON",
+            "Lim Jing Quan, Aaron"
         ],
         "videoLink": "",
         "posterLink": "https://martout2002.github.io/CS4248-group29/Gemini_Generated_Image_ur1qsnur1qsnur1q.png"
     },
     "CS4248-30": {
-        "name": "38",
+        "name": "30",
         "members": [
             "RUSSELL NG JUNG HNG",
             "KENJI LEONG",
@@ -569,7 +571,7 @@
         "posterLink": "https://luna-ortus-cor.github.io/CS4248-Group-30-Project/images/Picture1.png"
     },
     "CS4248-38": {
-        "name": "40",
+        "name": "38",
         "members": [
             "CHEOK LE YI",
             "PHAN TUAN KIET",
@@ -583,7 +585,7 @@
         "posterLink": ""
     },
     "CS4248-40": {
-        "name": "EXMABSA",
+        "name": "40",
         "members": [
             "Shen LieZhou",
             "SINHA VEDANT",
@@ -831,7 +833,7 @@
         "posterLink": ""
     },
     "IT5007-2": {
-        "name": "AI Arena",
+        "name": "The Round Table",
         "members": [
             "Ye Xinzhi",
             "Lim Feng Long"
@@ -858,10 +860,21 @@
         "posterLink": ""
     },
     "IT5007-5": {
-        "name": "A",
+        "name": "skillspulse",
         "members": [
-            "Student 1",
-            "Student 2"
+            "Chou Hui Shan",
+            "Reuel Alen",
+            "Punyaa"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IT5007-6": {
+        "name": "CosmicVault",
+        "members": [
+            "Voon Jun Quan",
+            "Saw Wei Lin",
+            "NOAH LEE SUPARTINO"
         ],
         "videoLink": "",
         "posterLink": ""
