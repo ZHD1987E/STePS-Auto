@@ -30,6 +30,6 @@ for courseCODE, courseELEMENTS in theMASTERDATAJSON.items():
     
     for order in range(maxAwards):
         position = awards[order]
-        winnerNAME = f"{courseCODE} - {position}"
+        winnerNAME = f"{courseCODE} - "
         csvwriter.writerow([courseAwarder, "", winnerNAME, position, signer])
 csvDATAFILE.close()
