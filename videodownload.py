@@ -7,9 +7,8 @@ import yt_dlp
 import json
 def do_download(url, filename):
     ydl_opts = {
-        'format': 'bestvideo[ext=mp4]+bestaudio[ext=m4a]/best[ext=mp4]',
-        'outtmpl': f'videos/{filename}.mp4',  # Custom filename
-        'merge_output_format': 'mp4'   # Ensure MP4 output
+        'format': 'bestvideo+bestaudio/best',  # Download the best video and audio quality
+        'outtmpl': f'videos/{filename}',  # Custom filename
     }
     with yt_dlp.YoutubeDL(ydl_opts) as ydl:
         ydl.download([url])
