@@ -40,12 +40,12 @@
         "AwardingTitle":"CS5224 Cloud Computing (Chair: A\/Prof. Anandha Gopalan)"
     },
     "FYP-IP":{
-        "Title":"Final Year Project and Independet Project",
+        "Title":"Final Year Project and Independent Project",
         "Instructor":"Dr. Prabhu NATARAJAN",
         "PrizeCount":3,
         "IsGraduate":false,
         "HM":false,
-        "AwardingTitle":"FYP-IP Final Year Project and Independet Project (Chair: Dr. Prabhu NATARAJAN)"
+        "AwardingTitle":"FYP-IP Final Year Project and Independent Project (Chair: Dr. Prabhu NATARAJAN)"
     },
     "IS4151\/IS5451":{
         "Title":"AIoT Solutions and Development",
@@ -80,11 +80,11 @@
         "AwardingTitle":"MComp MComp Thesis (Chair: Dr. Prasanna Karthik Vairam)"
     },
     "CP3108":{
-        "Title":"Independet Work",
+        "Title":"Independent Work",
         "Instructor":"A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka",
         "PrizeCount":3,
         "IsGraduate":false,
         "HM":false,
-        "AwardingTitle":"CP3108 Independet Work (Chair: A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka)"
+        "AwardingTitle":"CP3108 Independent Work (Chair: A\/Prof. Martin Henz, Dr. Boyd Anderson and Dr. Sanka Rasnayaka)"
     }
 }
