@@ -181,7 +181,5 @@ MComp-3: Secure Digital twin pipeline for automated SLL(Loan) verification
 
 MComp-4: Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Critic-Free Reinforcement Learning 
 
-MComp-5: AI Scientist as a Reproducibility Assistant 
-
-MComp-100: Test project 
+MComp-5: AI Scientist as a Reproducibility Assistant
 

@@ -957,13 +957,5 @@
         ],
         "videoLink": "",
         "posterLink": ""
-    },
-    "MComp-100": {
-        "name": "Test project",
-        "members": [
-            "Lee Jin Xing"
-        ],
-        "videoLink": "",
-        "posterLink": ""
     }
 }
