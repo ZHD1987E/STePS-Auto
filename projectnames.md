@@ -1,5 +1,5 @@
 # CP3108 CP3108 Source Academy Improvements
-CP3108-1: Skip Button and Navigation Mode Integration 
+CP3108-1: Source Academy Update: Skip Button and Navigation Mode Integration 
 
 CP3108-2: Student View & Sinter 
 
@@ -73,9 +73,9 @@ CS4240-6: Embodied Learning for Japanese Language Education
 CS4240-7: VR interface for customzing home robot 
 
 # CS4248 Natural Language Processing
-CS4248-1: 1 
+CS4248-1: Improving Compact IR for Text-to-Code Retrieval Using Knowledge Distillation 
 
-CS4248-3: 3 
+CS4248-3: Sarcasm Detecting 
 
 CS4248-6: 6 
 
@@ -83,23 +83,23 @@ CS4248-7: 7
 
 CS4248-10: 10 
 
-CS4248-11: 11 
+CS4248-11: Meme Reply Selection 
 
-CS4248-14: 14 
+CS4248-14: LLMao 
 
-CS4248-21: 21 
+CS4248-21: EmoTE to GeneraTE 
 
-CS4248-23: 23 
+CS4248-23: Robo-Roast: Teaching AI the Onion 
 
 CS4248-24: 24 
 
-CS4248-29: 29 
+CS4248-29: MemeGrounding 
 
 CS4248-30: 30 
 
-CS4248-38: 38 
+CS4248-38: LLM Unlearning 
 
-CS4248-40: 40 
+CS4248-40: Explainable Multimodal Aspect-Based Sentiment Analysis 
 
 # CS5224 Cloud Computing
 CS5224-1: RetailMind 
@@ -119,12 +119,6 @@ FYP-IP-1: Traders Edge
 
 FYP-IP-2: Unknown 
 
-FYP-IP-3: Unknown 
-
-FYP-IP-4: Unknown 
-
-FYP-IP-5: Unknown 
-
 FYP-IP-6: Elephant Reader: Improving learning processes for learners with Dyslexia 
 
 FYP-IP-7: Panen Ilmu: An AI Platform for Democratizing Agricultural Information Between Farmers and Extension Workers 
@@ -134,8 +128,6 @@ FYP-IP-8: A Cross-Lingual Evaluation of Modality Contribution and Fusion Archite
 FYP-IP-9: Torch in Source Academy 
 
 FYP-IP-10: Browser-based Python-to-WASM Compiler 
-
-FYP-IP-11: Unknown 
 
 FYP-IP-12: Multi-threaded Go in the Browser With Concurrent Garbage Collection 
 
@@ -181,5 +173,7 @@ MComp-3: Secure Digital twin pipeline for automated SLL(Loan) verification
 
 MComp-4: Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Critic-Free Reinforcement Learning 
 
-MComp-5: AI Scientist as a Reproducibility Assistant
+MComp-5: AI Scientist as a Reproducibility Assistant 
+
+MComp-100: Test project 
 

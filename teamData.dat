@@ -1,6 +1,6 @@
 {
     "CP3108-1": {
-        "name": "Skip Button and Navigation Mode Integration",
+        "name": "Source Academy Update: Skip Button and Navigation Mode Integration",
         "members": [
             "Chen Yuzhen",
             "Tan Jin Hong",
@@ -41,7 +41,7 @@
             "Tristan Tay Yu Hng"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.ibb.co/RkTQ4m1T/Stream-Visualisation-1.png"
     },
     "CP3108-7": {
         "name": "Stepper",
@@ -69,7 +69,7 @@
             "Marcus Ho Jun Wei"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://image2url.com/r2/default/images/1775217725329-307bb78f-b137-433d-8842-cd5ac743d20c.png"
     },
     "CP3108-10": {
         "name": "AI-based Grading",
@@ -411,7 +411,7 @@
         "posterLink": ""
     },
     "CS4248-1": {
-        "name": "1",
+        "name": "Improving Compact IR for Text-to-Code Retrieval Using Knowledge Distillation",
         "members": [
             "IMMANUEL CHIA QI XIANG",
             "SOON WENG FOON TIMOTHY",
@@ -424,7 +424,7 @@
         "posterLink": ""
     },
     "CS4248-3": {
-        "name": "3",
+        "name": "Sarcasm Detecting",
         "members": [
             "SEAN FOONG JER TSUEN",
             "Maximus Simon Lee",
@@ -475,7 +475,7 @@
         "posterLink": ""
     },
     "CS4248-11": {
-        "name": "11",
+        "name": "Meme Reply Selection",
         "members": [
             "GARG LAVANYA",
             "KUVAWALA MUSTAFA ABBAS",
@@ -487,7 +487,7 @@
         "posterLink": ""
     },
     "CS4248-14": {
-        "name": "14",
+        "name": "LLMao",
         "members": [
             "CHENG ANQI, ANGEL",
             "HOU XINXIANG",
@@ -501,7 +501,7 @@
         "posterLink": ""
     },
     "CS4248-21": {
-        "name": "21",
+        "name": "EmoTE to GeneraTE",
         "members": [
             "UJJWAL GAURAV",
             "CHEN YU, BRYAN",
@@ -515,10 +515,10 @@
             "Chen Yu Bryan"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.imgur.com/vWln99Q.png"
     },
     "CS4248-23": {
-        "name": "23",
+        "name": "Robo-Roast: Teaching AI the Onion",
         "members": [
             "LIU HAOTIAN",
             "KAUNG HTET WAI YAN",
@@ -544,7 +544,7 @@
         "posterLink": ""
     },
     "CS4248-29": {
-        "name": "29",
+        "name": "MemeGrounding",
         "members": [
             "LEE POE AIK",
             "CHARLENE TEOH CHIA YING",
@@ -571,7 +571,7 @@
         "posterLink": "https://luna-ortus-cor.github.io/CS4248-Group-30-Project/images/Picture1.png"
     },
     "CS4248-38": {
-        "name": "38",
+        "name": "LLM Unlearning",
         "members": [
             "CHEOK LE YI",
             "PHAN TUAN KIET",
@@ -585,7 +585,7 @@
         "posterLink": ""
     },
     "CS4248-40": {
-        "name": "40",
+        "name": "Explainable Multimodal Aspect-Based Sentiment Analysis",
         "members": [
             "Shen LieZhou",
             "SINHA VEDANT",
@@ -689,31 +689,6 @@
         "videoLink": "",
         "posterLink": ""
     },
-    "FYP-IP-3": {
-        "name": "Unknown",
-        "members": [
-            "ANG JING XUAN SELWYN"
-        ],
-        "videoLink": "",
-        "posterLink": ""
-    },
-    "FYP-IP-4": {
-        "name": "Unknown",
-        "members": [
-            "ANG ZI JUN DAYN",
-            "Lim Rik"
-        ],
-        "videoLink": "",
-        "posterLink": ""
-    },
-    "FYP-IP-5": {
-        "name": "Unknown",
-        "members": [
-            "Yugan Kumar Patchandi"
-        ],
-        "videoLink": "",
-        "posterLink": ""
-    },
     "FYP-IP-6": {
         "name": "Elephant Reader: Improving learning processes for learners with Dyslexia",
         "members": [
@@ -749,15 +724,8 @@
     "FYP-IP-10": {
         "name": "Browser-based Python-to-WASM Compiler",
         "members": [
+            "Jonas Ong Si Wei",
             "Jonas Ong Si Wei"
-        ],
-        "videoLink": "",
-        "posterLink": ""
-    },
-    "FYP-IP-11": {
-        "name": "Unknown",
-        "members": [
-            "NG YU CHENG"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -921,7 +889,8 @@
     "MComp-1": {
         "name": "Generative Neural Networks for Material Design and Discovery",
         "members": [
-            "Yanming Shao"
+            "Yanming Shao",
+            "Shao Yanming"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -954,6 +923,14 @@
         "name": "AI Scientist as a Reproducibility Assistant",
         "members": [
             "Nura Tamton"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "MComp-100": {
+        "name": "Test project",
+        "members": [
+            "Lee Jin Xing"
         ],
         "videoLink": "",
         "posterLink": ""
