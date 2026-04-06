@@ -104,8 +104,6 @@ CS4248-40: Explainable Multimodal Aspect-Based Sentiment Analysis
 # CS5224 Cloud Computing
 CS5224-1: RetailMind 
 
-CS5224-2: Unknown 
-
 CS5224-3: Inspira 
 
 CS5224-4: McKAInsey 
@@ -136,6 +134,18 @@ FYP-IP-13: A Just-In-Time Compiler for Python in the Browser
 FYP-IP-14: CustomAIzEd: An LLM-Powered Gamified and Collaborative Platform for Personalized AI Education 
 
 # IS4151 AIoT Solutions and Development
+IS4151-1: SafeNavigate Trolley 
+
+IS4151-2: Archery 
+
+IS4151-3: AIoT Strength Coach: CV and Sensor-Based Fitness Training System 
+
+IS4151-4: Smart Anti-Loss / Anti-Theft Bag Tag 
+
+IS4151-5: PyroSense AI 
+
+IS4151-6: Fresh-Check Smart Storage System 
+
 # IS5126 Hands-on with Applied Analytics
 IS5126-1: Twit‑Nalytics: A new-age viral tweet predictor 
 

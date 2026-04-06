@@ -609,20 +609,6 @@
         "videoLink": "",
         "posterLink": ""
     },
-    "CS5224-2": {
-        "name": "Unknown",
-        "members": [
-            "LAKSHAYA KARTHIKEYAN",
-            "RAYSON CHIA HAO ZHE",
-            "KOMAL CHANDIRAMANI",
-            "WONG ZHAO CAI",
-            "GOEL ARNAV",
-            "TANIA TAN SHU QI",
-            "KOMAL CHANDIRAMANI"
-        ],
-        "videoLink": "",
-        "posterLink": ""
-    },
     "CS5224-3": {
         "name": "Inspira",
         "members": [
@@ -751,6 +737,74 @@
         "members": [
             "Aaron Joel Tan Tze Ern",
             "Lam Cheng Hou"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4151-1": {
+        "name": "SafeNavigate Trolley",
+        "members": [
+            "ELIJAH CHIA KAI FENG",
+            "GILLIAN GOH LIXUAN",
+            "LOKE FAI JUN, JAREN",
+            "RYAN LUCAS HO SHI CHANG",
+            "TAN JIAN FENG"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4151-2": {
+        "name": "Archery",
+        "members": [
+            "Muhammad Danial Bin Senin",
+            "SEAH QIAO LING",
+            "TAN YI NING",
+            "YEO WEI SHENG"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4151-3": {
+        "name": "AIoT Strength Coach: CV and Sensor-Based Fitness Training System",
+        "members": [
+            "CHONG ZI YUAN",
+            "EDWITT LIM JUN HENG",
+            "IAN TAN SHINN WEI",
+            "LIM YU DE"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4151-4": {
+        "name": "Smart Anti-Loss / Anti-Theft Bag Tag",
+        "members": [
+            "ELIZABETH RAKHI BABY",
+            "Foo Lin Xuan",
+            "GUO ZINIU",
+            "LIU QINWEI"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4151-5": {
+        "name": "PyroSense AI",
+        "members": [
+            "CHAITANYA KAUSHAL",
+            "JEGANATH YOGANANDAM PAVITHRA",
+            "KHUSHALI ANIL PATEL",
+            "NAUFAL ADITYA DIRGANDHAVI"
+        ],
+        "videoLink": "",
+        "posterLink": ""
+    },
+    "IS4151-6": {
+        "name": "Fresh-Check Smart Storage System",
+        "members": [
+            "CHLOE TJONG SHAN MEI",
+            "CHOI JI WON",
+            "LIM SHEAN LIT, JUSTIN",
+            "ONG MIN CHLOE",
+            "Yip Rong Yu, Natasha"
         ],
         "videoLink": "",
         "posterLink": ""
