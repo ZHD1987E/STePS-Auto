@@ -5,7 +5,7 @@ theMASTERDATA = open("awardData.dat", "r", encoding = "utf-8")
 theMASTERDATAJSON = json.load(theMASTERDATA)
 csvDATAFILE = open("awardees.csv", "w", newline="", encoding = "utf-8")
 csvwriter = csv.writer(csvDATAFILE)
-defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
+defaultCERTORDERRANKED = ["Best Project - Platinum", "Best Project - Gold", "Best Project - Silver"]
 defaultCERTORDERUNRANKED = "Honorable Mention"
 defaultCERTNUMBER = 3
 undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean, Academic Affairs"

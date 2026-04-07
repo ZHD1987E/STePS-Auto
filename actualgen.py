@@ -5,7 +5,7 @@ import csv
 # This is the API endpoint for voting results.
 # Copy and paste into results.json and run this script.
 
-defaultCERTORDERRANKED = ["Best Project", "Second Prize", "Third Prize"]
+defaultCERTORDERRANKED = ["Best Project - Platinum", "Best Project - Gold", "Best Project - Silver"]
 defaultCERTORDERUNRANKED = "Honorable Mention"
 undergradSIGN = "Prof. Kan Min Yen\nVice Dean, Undergraduate Studies\nVice Dean, Academic Affairs"
 gradSIGN = "Prof. Chan Mun Choon\nVice Dean, Graduate Studies"
