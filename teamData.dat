@@ -50,7 +50,7 @@
             "Wong Kin Chong"
         ],
         "videoLink": "",
-        "posterLink": "https://i.postimg.cc/xT4Zn6H2/Academic-Poster-with-Cosmic-Space-Theme-(1).png"
+        "posterLink": "https://i.postimg.cc/yxFnW26x/CP3108A-Stepper.png"
     },
     "CP3108-8": {
         "name": "Conductor Migration",
@@ -108,7 +108,7 @@
             "LEE WEI ZHI"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.postimg.cc/ZK5Hcv0p/CP3108-P13-Poster.png"
     },
     "CP3108-14": {
         "name": "Progress on Pie in Source Academy",
@@ -531,7 +531,7 @@
         "posterLink": ""
     },
     "CS4248-24": {
-        "name": "24",
+        "name": "How Do Transformers Capture Sentiment?",
         "members": [
             "MUHAMMAD SALMAN AL FARISI",
             "ABISHAI ANARGYA HALIM",
@@ -541,7 +541,7 @@
             "TANG ZIJUN"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.imgur.com/Ml3peMs.png"
     },
     "CS4248-29": {
         "name": "MemeGrounding",
@@ -668,9 +668,9 @@
         "posterLink": ""
     },
     "FYP-IP-2": {
-        "name": "Unknown",
+        "name": "DGLight: DQN-Guided GRPO Fine-Tuning of Large Language Models for Traffic Signal Control",
         "members": [
-            "SONG MENGFEI"
+            "Yu Chenbo"
         ],
         "videoLink": "",
         "posterLink": ""

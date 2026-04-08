@@ -91,7 +91,7 @@ CS4248-21: EmoTE to GeneraTE
 
 CS4248-23: Robo-Roast: Teaching AI the Onion 
 
-CS4248-24: 24 
+CS4248-24: How Do Transformers Capture Sentiment? 
 
 CS4248-29: MemeGrounding 
 
@@ -115,7 +115,7 @@ CS5224-6: Flow Fox
 # FYP-IP FYP/UROP/CP3106/8, Independent/Personal Projects
 FYP-IP-1: Traders Edge 
 
-FYP-IP-2: Unknown 
+FYP-IP-2: DGLight: DQN-Guided GRPO Fine-Tuning of Large Language Models for Traffic Signal Control 
 
 FYP-IP-6: Elephant Reader: Improving learning processes for learners with Dyslexia 
 
