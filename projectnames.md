@@ -1,5 +1,5 @@
 # CP3108 CP3108 Source Academy Improvements
-CP3108-1: Source Academy Update: Skip Button and Navigation Mode Integration 
+CP3108-1: Source Academy Game Update: The Era of Explorers ----- Skip Button and Mode Integration 
 
 CP3108-2: Student View & Sinter 
 
@@ -21,7 +21,7 @@ CP3108-12: Adding Python to Source Academy
 
 CP3108-13: Scheme in Source Academy 
 
-CP3108-14: Progress on Pie in Source Academy 
+CP3108-14: Pielot: a better Pie for Source Academy 
 
 CP3108-15: Source Academy Power Tools 
 
@@ -81,7 +81,7 @@ CS4248-6: 6
 
 CS4248-7: 7 
 
-CS4248-10: 10 
+CS4248-10: Improving Table-to-Text Generation with Prompting and Retrieval 
 
 CS4248-11: Meme Reply Selection 
 
@@ -136,7 +136,7 @@ FYP-IP-14: CustomAIzEd: An LLM-Powered Gamified and Collaborative Platform for P
 # IS4151 AIoT Solutions and Development
 IS4151-1: SafeNavigate Trolley 
 
-IS4151-2: Archery 
+IS4151-2: HawkEye Archery Trainer 
 
 IS4151-3: AIoT Strength Coach: CV and Sensor-Based Fitness Training System 
 
@@ -162,7 +162,7 @@ IT5007-3: Nomie
 
 IT5007-4: LuminaQuest 
 
-IT5007-5: skillspulse 
+IT5007-5: skillsPulse 
 
 IT5007-6: CosmicVault 
 
@@ -175,13 +175,13 @@ IT5007-9: BeadWiz
 IT5007-28: HealthScan 
 
 # MComp Master of Computing Capstone Projects and Dissertations
-MComp-1: Generative Neural Networks for Material Design and Discovery 
+MComp-1: Generative Neural Networks for Materials Design and Discovery 
 
 MComp-2: Vulnerability Analysis and Remediation in Automotive Telematics Platforms 
 
 MComp-3: Secure Digital twin pipeline for automated SLL(Loan) verification 
 
-MComp-4: Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Critic-Free Reinforcement Learning 
+MComp-4: Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Reinforcement Learning 
 
 MComp-5: AI Scientist as a Reproducibility Assistant 
 

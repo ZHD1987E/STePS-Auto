@@ -1,19 +1,20 @@
 {
     "CP3108-1": {
-        "name": "Source Academy Update: Skip Button and Navigation Mode Integration",
+        "name": "Source Academy Game Update: The Era of Explorers ----- Skip Button and Mode Integration",
         "members": [
             "Chen Yuzhen",
             "Tan Jin Hong",
             "Chen Yuzhen"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.imgur.com/eddX0pB.png"
     },
     "CP3108-2": {
         "name": "Student View & Sinter",
         "members": [
             "Chen Letao",
-            "Wang Ruiduan"
+            "Wang Ruiduan",
+            "Chen Letao"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -31,7 +32,7 @@
             "Roger Zhang Xinhai"
         ],
         "videoLink": "",
-        "posterLink": "https://i.imgur.com/0A4alBl.png"
+        "posterLink": "https://i.imgur.com/vwfHDSe.png"
     },
     "CP3108-6": {
         "name": "Stream Visualization",
@@ -50,7 +51,7 @@
             "Wong Kin Chong"
         ],
         "videoLink": "",
-        "posterLink": "https://i.postimg.cc/yxFnW26x/CP3108A-Stepper.png"
+        "posterLink": "https://i.postimg.cc/HsZ9FTbD/Sophisticated-Academic-Research-Poster-with-Teal-Highlights.png"
     },
     "CP3108-8": {
         "name": "Conductor Migration",
@@ -69,7 +70,7 @@
             "Marcus Ho Jun Wei"
         ],
         "videoLink": "",
-        "posterLink": "https://image2url.com/r2/default/images/1775217725329-307bb78f-b137-433d-8842-cd5ac743d20c.png"
+        "posterLink": "https://image2url.com/r2/default/images/1775656916072-a8adbd07-ed56-4a16-a0eb-025b6c508d6d.png"
     },
     "CP3108-10": {
         "name": "AI-based Grading",
@@ -89,7 +90,7 @@
             "Zhang Yilin"
         ],
         "videoLink": "",
-        "posterLink": "https://i.imgur.com/NcqRlxa.png"
+        "posterLink": "https://i.imgur.com/G8dlAdc.png"
     },
     "CP3108-12": {
         "name": "Adding Python to Source Academy",
@@ -111,12 +112,13 @@
         "posterLink": "https://i.postimg.cc/ZK5Hcv0p/CP3108-P13-Poster.png"
     },
     "CP3108-14": {
-        "name": "Progress on Pie in Source Academy",
+        "name": "Pielot: a better Pie for Source Academy",
         "members": [
             "Bao Xiyu",
             "Zuo Jingtian",
             "Ma Mingyang",
-            "Ma Mingyang"
+            "Ma Mingyang",
+            "Bao Tim"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -217,7 +219,7 @@
             "ULRICO NOLAN ORLANDO"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.imgur.com/y9M64ac.png"
     },
     "CS3247-5": {
         "name": "Blast Dash",
@@ -462,7 +464,7 @@
         "posterLink": ""
     },
     "CS4248-10": {
-        "name": "10",
+        "name": "Improving Table-to-Text Generation with Prompting and Retrieval",
         "members": [
             "Keagan Pang",
             "Toh Pin Ren",
@@ -754,12 +756,13 @@
         "posterLink": ""
     },
     "IS4151-2": {
-        "name": "Archery",
+        "name": "HawkEye Archery Trainer",
         "members": [
             "Muhammad Danial Bin Senin",
             "SEAH QIAO LING",
             "TAN YI NING",
-            "YEO WEI SHENG"
+            "YEO WEI SHENG",
+            "Seah Qiao Ling"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -882,7 +885,7 @@
         "posterLink": ""
     },
     "IT5007-5": {
-        "name": "skillspulse",
+        "name": "skillsPulse",
         "members": [
             "Chou Hui Shan",
             "Reuel Alen",
@@ -941,13 +944,13 @@
         "posterLink": ""
     },
     "MComp-1": {
-        "name": "Generative Neural Networks for Material Design and Discovery",
+        "name": "Generative Neural Networks for Materials Design and Discovery",
         "members": [
             "Yanming Shao",
             "Shao Yanming"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.imgur.com/MWiv5kf.jpeg"
     },
     "MComp-2": {
         "name": "Vulnerability Analysis and Remediation in Automotive Telematics Platforms",
@@ -966,8 +969,9 @@
         "posterLink": ""
     },
     "MComp-4": {
-        "name": "Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Critic-Free Reinforcement Learning",
+        "name": "Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Reinforcement Learning",
         "members": [
+            "Zhang Yizhuo",
             "Zhang Yizhuo"
         ],
         "videoLink": "",
@@ -979,7 +983,7 @@
             "Nura Tamton"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://imgur.com/a/QkE7hxi.png"
     },
     "MComp-100": {
         "name": "Test project",
