@@ -36,7 +36,7 @@ for track in theJSON:
         projectMEMBERS = list(projectMEMBERS) # To remove duplicates, HOPEFULLY!
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
-        f1.write(f"{trackCODE}-{projectNUMBER}: {projectVIDEOURL} \n\n")
+        f1.write(f"{trackCODE}-{projectNUMBER}: [{projectVIDEOURL}]({projectVIDEOURL}) \n\n")
         awardJSONDATA[f"{trackCODE}-{projectNUMBER}"] = {"name": projectNAME, "members": projectMEMBERS, "videoLink": projectVIDEOURL, "posterLink": projectPOSTERURL}
 
 f4.write(json.dumps(awardJSONDATA, indent = 4))
