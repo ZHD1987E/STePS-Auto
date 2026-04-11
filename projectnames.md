@@ -60,7 +60,7 @@ CS3247-12: Frontier Destiny
 # CS4240 Interaction Design for Virtual and Augmented Reality
 CS4240-1: Ariadne: Embodied LLMs for Collaborative Problem-Solving in XR 
 
-CS4240-2: Memora 
+CS4240-2: Memora: Exploring VR's Role in Empowering Communication 
 
 CS4240-3: Breaking the One-Size-Fits-All Paradigm: Action-Based Interaction in VR 
 
@@ -79,19 +79,19 @@ CS4248-3: Sarcasm Detecting
 
 CS4248-6: 6 
 
-CS4248-7: 7 
+CS4248-7: Memesense: Knowing When to Use Knowledge for Meme Understanding 
 
-CS4248-10: Improving Table-to-Text Generation with Prompting and Retrieval 
+CS4248-10: Improving Text-to-Table Generation with Prompting and Retrieval 
 
-CS4248-11: Meme Reply Selection 
+CS4248-11: Which Meme Fits Best? A Study of Text, Image, and Multimodal Retrieval 
 
-CS4248-14: LLMao 
+CS4248-14: 14 
 
-CS4248-21: EmoTE to GeneraTE 
+CS4248-21: 21 
 
-CS4248-23: Robo-Roast: Teaching AI the Onion 
+CS4248-23: Satire Generation: Teaching AI the Onion 
 
-CS4248-24: How Do Transformers Capture Sentiment? 
+CS4248-24: 24 
 
 CS4248-29: MemeGrounding 
 
@@ -129,16 +129,16 @@ FYP-IP-10: Browser-based Python-to-WASM Compiler
 
 FYP-IP-12: Multi-threaded Go in the Browser With Concurrent Garbage Collection 
 
-FYP-IP-13: A Just-In-Time Compiler for Python in the Browser 
+FYP-IP-13: Just-In-Time Compilation for Python in the Browser 
 
 FYP-IP-14: CustomAIzEd: An LLM-Powered Gamified and Collaborative Platform for Personalized AI Education 
 
 # IS4151 AIoT Solutions and Development
 IS4151-1: SafeNavigate Trolley 
 
-IS4151-2: HawkEye Archery Trainer 
+IS4151-2: Archery 
 
-IS4151-3: AIoT Strength Coach: CV and Sensor-Based Fitness Training System 
+IS4151-3: SmartFit: AIoT Fitness Coach 
 
 IS4151-4: Smart Anti-Loss / Anti-Theft Bag Tag 
 
@@ -149,7 +149,7 @@ IS4151-6: Fresh-Check Smart Storage System
 # IS5126 Hands-on with Applied Analytics
 IS5126-1: Twit‑Nalytics: A new-age viral tweet predictor 
 
-IS5126-2: F&B market gap analysis 
+IS5126-2: MakanMetrics 
 
 IS5126-3: SONAR (Supply-chain Optimization and Network Analysis for Resilience) 
 
@@ -179,7 +179,7 @@ MComp-1: Generative Neural Networks for Materials Design and Discovery
 
 MComp-2: Vulnerability Analysis and Remediation in Automotive Telematics Platforms 
 
-MComp-3: Secure Digital twin pipeline for automated SLL(Loan) verification 
+MComp-3: Secure Digital twin pipeline for automated ESG performance verification 
 
 MComp-4: Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Reinforcement Learning 
 

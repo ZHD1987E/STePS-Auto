@@ -23,7 +23,7 @@ for track in theJSON:
     # Going through each 'track' (courses/modules)
     nameDCT = {}
     for person in track["students"]:
-        nameDCT[person["_id"]] = person["name"]
+        nameDCT[person["_id"]] = person["name"].title()
     trackCODE = track["code"]
     trackNAME = track["name"]
     f2.write(f"# {trackCODE} {trackNAME}\n")
@@ -32,7 +32,8 @@ for track in theJSON:
         projectNAME = project["name"]
         projectVIDEOURL = project["videoLink"]
         projectPOSTERURL = project["posterLink"]
-        projectMEMBERS = list(map(lambda x: nameDCT[x] if x in nameDCT else "Unknown", project["members"]))
+        projectMEMBERS = set(map(lambda x: nameDCT[x] if x in nameDCT else "Unknown", project["members"]))
+        projectMEMBERS = list(projectMEMBERS) # To remove duplicates, HOPEFULLY!
         projectNUMBER = project["refId"]
         f2.write(f"{trackCODE}-{projectNUMBER}: {projectNAME} \n\n")
         f1.write(f"{trackCODE}-{projectNUMBER}: {projectVIDEOURL} \n\n")

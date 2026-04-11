@@ -148,7 +148,7 @@ IT5007-1:
 
 IT5007-2:  
 
-IT5007-3:  
+IT5007-3: https://www.youtube.com/watch?v=-vhlqGCD7mY 
 
 IT5007-4:  
 
