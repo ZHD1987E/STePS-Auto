@@ -44,7 +44,7 @@ CS3247-6: []()
 
 CS3247-7: []() 
 
-CS3247-8: []() 
+CS3247-8: [https://youtu.be/AccdKsngPPA](https://youtu.be/AccdKsngPPA) 
 
 CS3247-9: []() 
 
@@ -52,7 +52,7 @@ CS3247-10: []()
 
 CS3247-11: []() 
 
-CS3247-12: []() 
+CS3247-12: [https://youtu.be/wv1oh3NxP1c](https://youtu.be/wv1oh3NxP1c) 
 
 CS4240-1: []() 
 
@@ -160,7 +160,7 @@ IT5007-7: []()
 
 IT5007-8: []() 
 
-IT5007-9: []() 
+IT5007-9: [https://www.youtube.com/watch?v=ldt5k4SXEIM](https://www.youtube.com/watch?v=ldt5k4SXEIM) 
 
 IT5007-28: []() 
 
