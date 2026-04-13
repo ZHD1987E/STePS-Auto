@@ -62,7 +62,7 @@ CS4240-1: Ariadne: Embodied LLMs for Collaborative Problem-Solving in XR
 
 CS4240-2: Memora: Exploring VR's Role in Empowering Communication 
 
-CS4240-3: Breaking the One-Size-Fits-All Paradigm: Action-Based Interaction in VR 
+CS4240-3: VR Handbook: Stage-Based Hand Interaction in VR 
 
 CS4240-4: VRTerrainMolder: Multimodal AI-Driven Gesture and Voice Interaction for Immersive Terrain Authoring 
 
@@ -91,7 +91,7 @@ CS4248-21: 21
 
 CS4248-23: Satire Generation: Teaching AI the Onion 
 
-CS4248-24: 24 
+CS4248-24: How Do Transformers Capture Sentiment During Text Generation? 
 
 CS4248-29: MemeGrounding 
 

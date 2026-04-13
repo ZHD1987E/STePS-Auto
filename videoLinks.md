@@ -16,7 +16,7 @@ CP3108-10: []()
 
 CP3108-11: []() 
 
-CP3108-12: []() 
+CP3108-12: [https://youtu.be/0QXfHFKUq3s](https://youtu.be/0QXfHFKUq3s) 
 
 CP3108-13: []() 
 
@@ -42,7 +42,7 @@ CS3247-5: []()
 
 CS3247-6: []() 
 
-CS3247-7: []() 
+CS3247-7: [https://youtu.be/R_Lj8gldEZs](https://youtu.be/R_Lj8gldEZs) 
 
 CS3247-8: [https://youtu.be/AccdKsngPPA](https://youtu.be/AccdKsngPPA) 
 
@@ -60,7 +60,7 @@ CS4240-2: []()
 
 CS4240-3: [https://youtu.be/dYAmRa9Jabc](https://youtu.be/dYAmRa9Jabc) 
 
-CS4240-4: []() 
+CS4240-4: [https://youtu.be/rKKLdeRgULU](https://youtu.be/rKKLdeRgULU) 
 
 CS4240-5: []() 
 
@@ -134,7 +134,7 @@ IS4151-3: []()
 
 IS4151-4: []() 
 
-IS4151-5: []() 
+IS4151-5: [https://www.youtube.com/shorts/zKgHb5zmlVk](https://www.youtube.com/shorts/zKgHb5zmlVk) 
 
 IS4151-6: []() 
 
@@ -144,7 +144,7 @@ IS5126-2: []()
 
 IS5126-3: []() 
 
-IT5007-1: []() 
+IT5007-1: [https://youtu.be/KemtoYXslPU?si=6vW_Ebnr9liOC1pp](https://youtu.be/KemtoYXslPU?si=6vW_Ebnr9liOC1pp) 
 
 IT5007-2: []() 
 
