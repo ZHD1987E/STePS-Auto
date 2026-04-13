@@ -2,7 +2,7 @@ CP3108-1: []()
 
 CP3108-2: []() 
 
-CP3108-3: []() 
+CP3108-3: [https://youtu.be/kKRA6_Xpvvk?si=iwrR_050MeuhA1FT](https://youtu.be/kKRA6_Xpvvk?si=iwrR_050MeuhA1FT) 
 
 CP3108-6: []() 
 
@@ -30,13 +30,13 @@ CS3217-2: []()
 
 CS3217-3: []() 
 
-CS3247-1: []() 
+CS3247-1: [https://youtu.be/i7-Q_oskbKA](https://youtu.be/i7-Q_oskbKA) 
 
 CS3247-2: []() 
 
 CS3247-3: []() 
 
-CS3247-4: []() 
+CS3247-4: [https://www.youtube.com/watch?v=dqR0bzq0ga4](https://www.youtube.com/watch?v=dqR0bzq0ga4) 
 
 CS3247-5: []() 
 
@@ -50,21 +50,21 @@ CS3247-9: []()
 
 CS3247-10: []() 
 
-CS3247-11: []() 
+CS3247-11: [https://youtu.be/WN0FUO245xw](https://youtu.be/WN0FUO245xw) 
 
-CS3247-12: [https://youtu.be/wv1oh3NxP1c](https://youtu.be/wv1oh3NxP1c) 
+CS3247-12: [https://youtu.be/KTrv7VgBpPE](https://youtu.be/KTrv7VgBpPE) 
 
-CS4240-1: []() 
+CS4240-1: [https://youtu.be/AjkWqcPZ1YM](https://youtu.be/AjkWqcPZ1YM) 
 
 CS4240-2: []() 
 
-CS4240-3: []() 
+CS4240-3: [https://youtu.be/dYAmRa9Jabc](https://youtu.be/dYAmRa9Jabc) 
 
 CS4240-4: []() 
 
 CS4240-5: []() 
 
-CS4240-6: []() 
+CS4240-6: [https://youtu.be/RvkNh6EQgQs](https://youtu.be/RvkNh6EQgQs) 
 
 CS4240-7: []() 
 
@@ -92,7 +92,7 @@ CS4248-29: []()
 
 CS4248-30: []() 
 
-CS4248-38: []() 
+CS4248-38: [https://www.youtube.com/watch?v=Lh08mFve_Dc](https://www.youtube.com/watch?v=Lh08mFve_Dc) 
 
 CS4248-40: []() 
 
@@ -152,13 +152,13 @@ IT5007-3: [https://www.youtube.com/watch?v=-vhlqGCD7mY](https://www.youtube.com/
 
 IT5007-4: []() 
 
-IT5007-5: []() 
+IT5007-5: [https://youtu.be/UcwfhFCPi60](https://youtu.be/UcwfhFCPi60) 
 
 IT5007-6: []() 
 
 IT5007-7: []() 
 
-IT5007-8: []() 
+IT5007-8: [https://youtu.be/stiBJ0pRUaI](https://youtu.be/stiBJ0pRUaI) 
 
 IT5007-9: [https://www.youtube.com/watch?v=ldt5k4SXEIM](https://www.youtube.com/watch?v=ldt5k4SXEIM) 
 

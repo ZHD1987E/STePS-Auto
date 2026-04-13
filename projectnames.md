@@ -77,7 +77,7 @@ CS4248-1: Improving Compact IR for Text-to-Code Retrieval Using Knowledge Distil
 
 CS4248-3: Sarcasm Detecting 
 
-CS4248-6: 6 
+CS4248-6: Sarcastic Headline Generator 
 
 CS4248-7: Memesense: Knowing When to Use Knowledge for Meme Understanding 
 
@@ -97,7 +97,7 @@ CS4248-29: MemeGrounding
 
 CS4248-30: 30 
 
-CS4248-38: LLM Unlearning 
+CS4248-38: LLM Unlearning: Efficient Machine Unlearning for Modern AI 
 
 CS4248-40: Explainable Multimodal Aspect-Based Sentiment Analysis 
 
@@ -177,7 +177,7 @@ IT5007-28: HealthScan
 # MComp Master of Computing Capstone Projects and Dissertations
 MComp-1: Generative Neural Networks for Materials Design and Discovery 
 
-MComp-2: Vulnerability Analysis and Remediation in Automotive Telematics Platforms 
+MComp-2: A Context-Aware Triage Framework for High-Fidelity Vulnerability Management in Automotive Embedded System 
 
 MComp-3: Secure Digital twin pipeline for automated ESG performance verification 
 
