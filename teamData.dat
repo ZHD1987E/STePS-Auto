@@ -11,8 +11,8 @@
     "CP3108-2": {
         "name": "Student View & Sinter",
         "members": [
-            "Wang Ruiduan",
-            "Chen Letao"
+            "Chen Letao",
+            "Wang Ruiduan"
         ],
         "videoLink": "",
         "posterLink": "https://i.postimg.cc/G36wdTT6/Future-Music-Festival-Poster-(1).png"
@@ -20,12 +20,12 @@
     "CP3108-3": {
         "name": "CSE Environment Diagrams",
         "members": [
-            "Roger Zhang Xinhai",
-            "Ethan Lock Zheng Yang",
-            "Ho Ke Ying",
             "Vemulapalli Akshay",
             "Wang Jiahua",
-            "That Li"
+            "Ho Ke Ying",
+            "That Li",
+            "Roger Zhang Xinhai",
+            "Ethan Lock Zheng Yang"
         ],
         "videoLink": "https://youtu.be/kKRA6_Xpvvk?si=iwrR_050MeuhA1FT",
         "posterLink": "https://i.imgur.com/vwfHDSe.png"
@@ -33,8 +33,8 @@
     "CP3108-6": {
         "name": "Stream Visualization",
         "members": [
-            "Tristan Tay Yu Hng",
-            "Teo Li Yang Terence"
+            "Teo Li Yang Terence",
+            "Tristan Tay Yu Hng"
         ],
         "videoLink": "",
         "posterLink": "https://i.ibb.co/RkTQ4m1T/Stream-Visualisation-1.png"
@@ -51,8 +51,8 @@
     "CP3108-8": {
         "name": "Conductor Migration",
         "members": [
-            "Yong Yi-Tze Elliot",
-            "Nguyen Le Quoc Bao"
+            "Nguyen Le Quoc Bao",
+            "Yong Yi-Tze Elliot"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -69,8 +69,8 @@
     "CP3108-10": {
         "name": "AI-based Grading",
         "members": [
-            "Tan Zheng Jia",
-            "Leong Yi Quan"
+            "Leong Yi Quan",
+            "Tan Zheng Jia"
         ],
         "videoLink": "",
         "posterLink": "https://i.imgur.com/FdKbTxD.jpeg"
@@ -78,8 +78,8 @@
     "CP3108-11": {
         "name": "Chatbots for Source Academy",
         "members": [
-            "Zhang Yilin",
-            "Zhao Shizhen"
+            "Zhao Shizhen",
+            "Zhang Yilin"
         ],
         "videoLink": "",
         "posterLink": "https://i.imgur.com/XT8DL6d.png"
@@ -87,8 +87,8 @@
     "CP3108-12": {
         "name": "Adding Python to Source Academy",
         "members": [
-            "Chia Meng Jit",
-            "Malani Aarav Sajeel"
+            "Malani Aarav Sajeel",
+            "Chia Meng Jit"
         ],
         "videoLink": "https://youtu.be/0QXfHFKUq3s",
         "posterLink": ""
@@ -96,8 +96,8 @@
     "CP3108-13": {
         "name": "Scheme in Source Academy",
         "members": [
-            "Gan Jaye Jyn",
-            "Lee Wei Zhi"
+            "Lee Wei Zhi",
+            "Gan Jaye Jyn"
         ],
         "videoLink": "",
         "posterLink": "https://i.postimg.cc/ZK5Hcv0p/CP3108-P13-Poster.png"
@@ -105,8 +105,8 @@
     "CP3108-14": {
         "name": "Pielot: a better Pie for Source Academy",
         "members": [
-            "Ma Mingyang",
             "Zuo Jingtian",
+            "Ma Mingyang",
             "Bao Tim",
             "Bao Xiyu"
         ],
@@ -126,9 +126,9 @@
         "name": "RossyCroad",
         "members": [
             "Nguyen Xuan Bach",
-            "Tan Cheng Yong, Enzo",
+            "Tan Cheng Yong Enzo",
             "Ang Tze Haw",
-            "Tan Cheng Yong Enzo"
+            "Tan Cheng Yong, Enzo"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -136,20 +136,20 @@
     "CS3217-2": {
         "name": "Soulless Knight: A dungeon crawler game",
         "members": [
-            "Jannice Suciptono",
-            "Chan Ger Teck",
             "Yu Letian",
-            "Yap Wen Kang"
+            "Yap Wen Kang",
+            "Jannice Suciptono",
+            "Chan Ger Teck"
         ],
         "videoLink": "",
-        "posterLink": "https://i.imgur.com/1xOhucX.jpeg"
+        "posterLink": "https://i.imgur.com/5s5EtfR.jpeg"
     },
     "CS3217-3": {
         "name": "MetroJuicePaak: Your Pocket Production Studio",
         "members": [
-            "Vince Leong Zi Yong",
             "Edwin Wong Jan Chung",
-            "Noah Ang Shi Hern"
+            "Noah Ang Shi Hern",
+            "Vince Leong Zi Yong"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -157,12 +157,12 @@
     "CS3247-1": {
         "name": "Zero Clearance",
         "members": [
-            "Lee Ze Hao",
             "Wong Zenwei",
-            "Sa Yoon Kim",
             "Quek Yew Wei",
+            "Li Haoquan",
+            "Lee Ze Hao",
             "Caleb Cherng Kai Zhe",
-            "Li Haoquan"
+            "Sa Yoon Kim"
         ],
         "videoLink": "https://youtu.be/i7-Q_oskbKA",
         "posterLink": ""
@@ -170,11 +170,11 @@
     "CS3247-2": {
         "name": "Grapplr",
         "members": [
-            "Que Linxiao",
-            "Titus Chew Xuan Jun",
-            "Aaron Sim",
             "Ito Tetsushi",
+            "Que Linxiao",
+            "Aaron Sim",
             "Tayal Yonish",
+            "Titus Chew Xuan Jun",
             "Peng Victor M X"
         ],
         "videoLink": "",
@@ -183,22 +183,22 @@
     "CS3247-3": {
         "name": "Shift Happens",
         "members": [
-            "Teh Rui-Chun",
-            "Grace Song",
-            "Tan En-Miin Elizabeth",
             "Ren Iris Jia",
+            "Grace Song",
+            "Teh Rui-Chun",
+            "Tan En-Miin Elizabeth",
             "Ingyin San"
         ],
-        "videoLink": "",
+        "videoLink": "https://youtu.be/AxTeIHsSS2I",
         "posterLink": "https://imgur.com/auhq7oi.png"
     },
     "CS3247-4": {
         "name": "Incident Report: 347",
         "members": [
+            "Mahmud Zayd",
             "Ulrico Nolan Orlando",
-            "Phua Yixun, Celeste",
             "Lim Rui Yuan",
-            "Mahmud Zayd"
+            "Phua Yixun, Celeste"
         ],
         "videoLink": "https://www.youtube.com/watch?v=dqR0bzq0ga4",
         "posterLink": "https://i.imgur.com/y9M64ac.png"
@@ -207,9 +207,9 @@
         "name": "Blast Dash",
         "members": [
             "Ong Gin Kai Leonard",
-            "Sun Weiyang",
+            "Ding Zhe",
             "Eliot Lee Leong Wern",
-            "Ding Zhe"
+            "Sun Weiyang"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -217,23 +217,23 @@
     "CS3247-6": {
         "name": "BLITZKRIEG",
         "members": [
-            "Lee Chen Xuan",
-            "Nathan Lye Zheng Yi",
             "Anthony Goh Yunfeng",
+            "Nathan Lye Zheng Yi",
+            "Lee Chen Xuan",
             "Lee Han Sheng Darren"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://www.image2url.com/r2/default/images/1776153769435-bff4332d-4fa9-41d1-b0ae-41350c15ada9.jpg"
     },
     "CS3247-7": {
         "name": "Any Last Words",
         "members": [
             "He Yiheng",
-            "Hans Delano",
+            "Desean Soh",
+            "Teo Ze Xuan",
             "Tang Xiao Di Wendy",
             "Amos Chee Tian Ee",
-            "Desean Soh",
-            "Teo Ze Xuan"
+            "Hans Delano"
         ],
         "videoLink": "https://youtu.be/R_Lj8gldEZs",
         "posterLink": "https://i.imgur.com/Qnb6yNR.jpeg"
@@ -241,10 +241,10 @@
     "CS3247-8": {
         "name": "BeingAnimals",
         "members": [
-            "Yang Boxiang",
+            "Sun Zhiyuan Felix",
             "Zhou Jinhao",
-            "Zhang Wenyue",
-            "Sun Zhiyuan Felix"
+            "Yang Boxiang",
+            "Zhang Wenyue"
         ],
         "videoLink": "https://youtu.be/AccdKsngPPA",
         "posterLink": "https://i.imgur.com/izgxJV2.jpeg"
@@ -254,9 +254,9 @@
         "members": [
             "Lippert Erik Quentin",
             "Sunnerdahl Emil Olof Ilmari",
+            "Li Issac Cheng Nuo",
             "Erkan Yunus Emre",
-            "Yang Yaqi",
-            "Li Issac Cheng Nuo"
+            "Yang Yaqi"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -265,22 +265,22 @@
         "name": "CyberPolygon: Survivor",
         "members": [
             "Zhao Weidong",
+            "Chen Jiajun",
             "Chen Tianlin",
-            "Peng Xiangru",
-            "Chen Jiajun"
+            "Peng Xiangru"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.imgur.com/B6jL9jU.png"
     },
     "CS3247-11": {
         "name": "Yarn",
         "members": [
-            "Teng Hui Xin Alicia",
-            "Reynard Ardian Simanjuntak",
-            "Jonas Ong Si Wei",
             "Jeremy Too Yun An",
+            "Teng Hui Xin Alicia",
+            "Lee Hai Hui",
             "Chang Jia Yang",
-            "Lee Hai Hui"
+            "Reynard Ardian Simanjuntak",
+            "Jonas Ong Si Wei"
         ],
         "videoLink": "https://youtu.be/WN0FUO245xw",
         "posterLink": "https://i.imgur.com/CjMUU9R.jpeg"
@@ -288,36 +288,36 @@
     "CS3247-12": {
         "name": "Frontier Destiny",
         "members": [
+            "Isaac Ng Jun Jie",
+            "Sean Ng Hao Jun",
             "Jordan Low Jin Yi",
             "Lee Jie Hui",
-            "Sean Ng Hao Jun",
             "Yap Wei Jin Ethan",
-            "Isaac Ng Jun Jie",
             "Maximus Ng Jun Peng"
         ],
         "videoLink": "https://youtu.be/KTrv7VgBpPE",
-        "posterLink": "https://imgur.com/dXCabkQ.png"
+        "posterLink": "https://imgur.com/a/aLQHMX4.png"
     },
     "CS4240-1": {
         "name": "Ariadne: Embodied LLMs for Collaborative Problem-Solving in XR",
         "members": [
+            "Goh Ying Xuan, Shavonne",
+            "Jung Hyunseok",
             "Pan Xinping",
             "Ashe Andromeda Low",
-            "Goh Ying Xuan, Shavonne",
-            "Kailin Teo",
-            "Jung Hyunseok",
-            "Fan Junwei"
+            "Fan Junwei",
+            "Kailin Teo"
         ],
         "videoLink": "https://youtu.be/AjkWqcPZ1YM",
         "posterLink": "https://i.ibb.co/v4wVTzPG/CS4240-PG1-Steps-Poster.png"
     },
     "CS4240-2": {
-        "name": "Memora: Exploring VR's Role in Empowering Communication",
+        "name": "Memora: Communicating Memory Across Real and Virtual Worlds",
         "members": [
             "Xiao Xiao",
             "Xiao Congchen",
-            "Daphne Shaine Wilhelmina",
-            "Tong Siyuan"
+            "Tong Siyuan",
+            "Daphne Shaine Wilhelmina"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -325,10 +325,10 @@
     "CS4240-3": {
         "name": "VR Handbook: Stage-Based Hand Interaction in VR",
         "members": [
-            "Tan Jing Ni, Shirley",
             "Soh Zheng Yang, Marcus",
-            "Ho Pei Ling",
             "Loh Shi Jie, Elaine",
+            "Tan Jing Ni, Shirley",
+            "Ho Pei Ling",
             "Yap Xuan Xuan",
             "Lim Rui Ting Valencia"
         ],
@@ -338,11 +338,11 @@
     "CS4240-4": {
         "name": "VRTerrainMolder: Multimodal AI-Driven Gesture and Voice Interaction for Immersive Terrain Authoring",
         "members": [
-            "Chang Daven",
-            "Mai Amy",
             "Foo Jing Ning, Joy",
-            "Chen Justin Yiming",
+            "Mai Amy",
+            "Chang Daven",
             "Achar Pavithra",
+            "Chen Justin Yiming",
             "Alicia Chang Chuo Ran"
         ],
         "videoLink": "https://youtu.be/rKKLdeRgULU",
@@ -351,11 +351,11 @@
     "CS4240-5": {
         "name": "EcoShift VR",
         "members": [
-            "Hwang Qi Zhen",
-            "Sunnerdahl Emil Olof Ilmari",
             "Zhao Weidong",
             "Teo Mou Qi",
-            "Htet Htet June Han"
+            "Sunnerdahl Emil Olof Ilmari",
+            "Htet Htet June Han",
+            "Hwang Qi Zhen"
         ],
         "videoLink": "",
         "posterLink": "https://i.imgur.com/ayHiMgS.jpeg"
@@ -364,11 +364,11 @@
         "name": "Embodied Learning for Japanese Language Education",
         "members": [
             "Li Tianchu",
-            "Daryl Tay Chin Kian",
-            "Althea Tan Sze Rui",
             "Low Zheng Hui",
+            "Li Haoquan",
+            "Daryl Tay Chin Kian",
             "Wu Jingya",
-            "Li Haoquan"
+            "Althea Tan Sze Rui"
         ],
         "videoLink": "https://youtu.be/RvkNh6EQgQs",
         "posterLink": "https://i.imgur.com/IEb210E.png"
@@ -384,11 +384,11 @@
     "CS4248-1": {
         "name": "Improving Compact IR for Text-to-Code Retrieval Using Knowledge Distillation",
         "members": [
-            "Immanuel Chia Qi Xiang",
             "Chen Wenlong",
+            "Immanuel Chia Qi Xiang",
             "Dude Lorenz Leonardo Crescenzio",
-            "Samuel Lim Yong En",
             "Samuel Lee Cong",
+            "Samuel Lim Yong En",
             "Soon Weng Foon Timothy"
         ],
         "videoLink": "",
@@ -397,12 +397,12 @@
     "CS4248-3": {
         "name": "Sarcasm Detecting",
         "members": [
-            "Le Minh Hoang",
             "Liu Muchen",
-            "Muchen Liu",
-            "Dang Hoang Duy",
+            "Maximus Simon Lee",
+            "Le Minh Hoang",
             "Sean Foong Jer Tsuen",
-            "Maximus Simon Lee"
+            "Muchen Liu",
+            "Dang Hoang Duy"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -410,11 +410,11 @@
     "CS4248-6": {
         "name": "Sarcastic Headline Generator",
         "members": [
-            "Noel Lim",
-            "Su Siying",
-            "Xu Zhehao",
+            "Huang Zekai",
             "Foong Hong Yi",
-            "Huang Zekai"
+            "Su Siying",
+            "Noel Lim",
+            "Xu Zhehao"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -423,11 +423,11 @@
         "name": "Memesense: Knowing When to Use Knowledge for Meme Understanding",
         "members": [
             "Qiao Yichen",
-            "Lei Shuyang",
             "Lee Jun Long Matthew",
+            "Lei Shuyang",
             "Wu Shuwen",
-            "Liu Ziling",
-            "He Man"
+            "He Man",
+            "Liu Ziling"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -435,11 +435,11 @@
     "CS4248-10": {
         "name": "Improving Text-to-Table Generation with Prompting and Retrieval",
         "members": [
-            "Nicholas Cheng",
             "Phua Qing Rong",
+            "Nicholas Cheng",
             "Keagan Pang",
-            "Shanyl Ong",
             "Toh Pin Ren",
+            "Shanyl Ong",
             "Ho Kin Tat"
         ],
         "videoLink": "",
@@ -448,25 +448,25 @@
     "CS4248-11": {
         "name": "Which Meme Fits Best? A Study of Text, Image, and Multimodal Retrieval",
         "members": [
-            "Rohan Sapra",
-            "Low Hui Yen",
-            "Darren Zhu",
             "Garg Lavanya",
-            "Kuvawala Mustafa Abbas"
+            "Darren Zhu",
+            "Rohan Sapra",
+            "Kuvawala Mustafa Abbas",
+            "Low Hui Yen"
         ],
         "videoLink": "",
         "posterLink": ""
     },
     "CS4248-14": {
-        "name": "14",
+        "name": "LLMao: Lightweight Language Models for Anti-sarcasm Output",
         "members": [
-            "Cheng Anqi, Angel",
-            "See Yang Zhi",
-            "Hou Xinxiang",
-            "Tran Khoi Nguyen",
             "Lo Yong Zhe",
             "Camille Chin Rui Bin",
-            "Chin Rui Bin"
+            "See Yang Zhi",
+            "Tran Khoi Nguyen",
+            "Chin Rui Bin",
+            "Cheng Anqi, Angel",
+            "Hou Xinxiang"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -474,13 +474,13 @@
     "CS4248-21": {
         "name": "21",
         "members": [
-            "Xu Luoqi",
+            "Ujjwal Gaurav",
+            "Chen Yu, Bryan",
             "Chen Yu Bryan",
             "Yang Liting",
             "Tan Sze Ling",
-            "Josh Thoo Jen Sen",
-            "Ujjwal Gaurav",
-            "Chen Yu, Bryan"
+            "Xu Luoqi",
+            "Josh Thoo Jen Sen"
         ],
         "videoLink": "",
         "posterLink": "https://i.imgur.com/vWln99Q.png"
@@ -488,12 +488,12 @@
     "CS4248-23": {
         "name": "Satire Generation: Teaching AI the Onion",
         "members": [
-            "Aidan Ong Zongren",
             "Kaung Htet Wai Yan",
-            "Cheong Rui Feng",
-            "Ren Guanpeng",
+            "Aidan Ong Zongren",
             "Yeo Boh Shin",
-            "Liu Haotian"
+            "Liu Haotian",
+            "Cheong Rui Feng",
+            "Ren Guanpeng"
         ],
         "videoLink": "",
         "posterLink": "https://imgur.com/a/meGy5v4.png"
@@ -502,11 +502,11 @@
         "name": "How Do Transformers Capture Sentiment During Text Generation?",
         "members": [
             "Cheong Howen",
-            "Tang Zijun",
             "Jim Seah",
+            "David Michael Indraputra",
             "Abishai Anargya Halim",
             "Muhammad Salman Al Farisi",
-            "David Michael Indraputra"
+            "Tang Zijun"
         ],
         "videoLink": "",
         "posterLink": "https://i.imgur.com/Ml3peMs.png"
@@ -515,25 +515,25 @@
         "name": "MemeGrounding",
         "members": [
             "Lee Zhi Yi",
-            "Lim Jing Quan Aaron",
+            "Charlene Teoh Chia Ying",
             "Lee Poe Aik",
             "Martin Ng",
-            "Koh Wen Jin Vera",
-            "Charlene Teoh Chia Ying",
-            "Lim Jing Quan, Aaron"
+            "Lim Jing Quan, Aaron",
+            "Lim Jing Quan Aaron",
+            "Koh Wen Jin Vera"
         ],
         "videoLink": "",
-        "posterLink": "https://martout2002.github.io/CS4248-group29/Gemini_Generated_Image_ur1qsnur1qsnur1q.png"
+        "posterLink": "https://martout2002.github.io/CS4248-group29/final_picture.png"
     },
     "CS4248-30": {
-        "name": "30",
+        "name": "Beyond the Joke: Unmasking Hateful Memes with CARA",
         "members": [
-            "Nick Lee Zhi Xiang",
+            "Loh Ze Qing, Norbert",
             "Billy Ho Cheng En",
             "Aw Jean Leng Adrian",
-            "Loh Ze Qing, Norbert",
             "Russell Ng Jung Hng",
-            "Kenji Leong"
+            "Kenji Leong",
+            "Nick Lee Zhi Xiang"
         ],
         "videoLink": "",
         "posterLink": "https://luna-ortus-cor.github.io/CS4248-Group-30-Project/images/Picture1.png"
@@ -541,24 +541,24 @@
     "CS4248-38": {
         "name": "LLM Unlearning: Efficient Machine Unlearning for Modern AI",
         "members": [
-            "Cheok Le Yi",
-            "Le Thi Thanh Truc",
-            "Toh Yi Hui",
-            "Nathan Loo Enping",
             "Phan Tuan Kiet",
-            "Timothy Josef Ho"
+            "Toh Yi Hui",
+            "Le Thi Thanh Truc",
+            "Timothy Josef Ho",
+            "Nathan Loo Enping",
+            "Cheok Le Yi"
         ],
         "videoLink": "https://www.youtube.com/watch?v=Lh08mFve_Dc",
-        "posterLink": ""
+        "posterLink": "https://iili.io/BNPmr8b.png"
     },
     "CS4248-40": {
         "name": "Explainable Multimodal Aspect-Based Sentiment Analysis",
         "members": [
             "Sinha Vedant",
-            "Sng Li Ting Desiree",
             "Shen Liezhou",
-            "Zhang Jing Wen",
-            "Song Haoran"
+            "Song Haoran",
+            "Sng Li Ting Desiree",
+            "Zhang Jing Wen"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -566,12 +566,12 @@
     "CS5224-1": {
         "name": "RetailMind",
         "members": [
-            "Rasyiqah Binte Shaik Mohamed Salim",
+            "Tseng, Yung Yi",
             "Ng Jun Wei",
             "Muhammad Fariz Bin Mohammad Yusri",
             "Peng Siang-Ling",
-            "Tseng, Yung Yi",
-            "Tan Hua Swen"
+            "Tan Hua Swen",
+            "Rasyiqah Binte Shaik Mohamed Salim"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -580,10 +580,10 @@
         "name": "Inspira",
         "members": [
             "Zhang Qilong",
+            "He Man",
             "Liu Yan",
             "Wu Shangrong",
-            "Wu Xingxia",
-            "He Man"
+            "Wu Xingxia"
         ],
         "videoLink": "",
         "posterLink": "https://imgur.com/o8cvlKM.png"
@@ -591,24 +591,11 @@
     "CS5224-4": {
         "name": "McKAInsey",
         "members": [
-            "Ma Yuanheng",
-            "Zhang Jing Wen",
-            "Zhao Haochen",
             "Ma Xiaoyu",
-            "Song Haoran"
-        ],
-        "videoLink": "",
-        "posterLink": ""
-    },
-    "CS5224-5": {
-        "name": "Unknown",
-        "members": [
-            "Liu Qinjun",
-            "Liang Mengying",
-            "Wang Huilin",
-            "Ma Yimian",
-            "Fu Yanxiang",
-            "Jiao Hanyang"
+            "Song Haoran",
+            "Ma Yuanheng",
+            "Zhao Haochen",
+            "Zhang Jing Wen"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -616,11 +603,11 @@
     "CS5224-6": {
         "name": "Flow Fox",
         "members": [
-            "Lim Jia Wei",
-            "Nicholas Cheng",
-            "Dewangan Neya Praveen",
             "Thng Rui Minh, Tania",
-            "Wong Sheen Kerr"
+            "Nicholas Cheng",
+            "Lim Jia Wei",
+            "Wong Sheen Kerr",
+            "Dewangan Neya Praveen"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -628,8 +615,8 @@
     "FYP-IP-1": {
         "name": "Traders Edge",
         "members": [
-            "Ching Ming Yuan",
-            "Tran Ha Thu"
+            "Tran Ha Thu",
+            "Ching Ming Yuan"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -640,7 +627,7 @@
             "Yu Chenbo"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://imgur.com/jfK2zQp.png"
     },
     "FYP-IP-6": {
         "name": "Elephant Reader: Improving learning processes for learners with Dyslexia",
@@ -659,7 +646,7 @@
         "posterLink": ""
     },
     "FYP-IP-8": {
-        "name": "A Cross-Lingual Evaluation of Modality Contribution and Fusion Architectures in Multimodal Sentiment Analysis",
+        "name": "Rethinking Multimodal Sentiment Analysis Across Languages: Modality Contribution, Fusion Effectiveness, and a Novel Hybrid Fusion Architecture",
         "members": [
             "Calista Tan Shu Yan"
         ],
@@ -701,8 +688,8 @@
     "FYP-IP-14": {
         "name": "CustomAIzEd: An LLM-Powered Gamified and Collaborative Platform for Personalized AI Education",
         "members": [
-            "Aaron Joel Tan Tze Ern",
-            "Lam Cheng Hou"
+            "Lam Cheng Hou",
+            "Aaron Joel Tan Tze Ern"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -710,11 +697,11 @@
     "IS4151-1": {
         "name": "SafeNavigate Trolley",
         "members": [
-            "Ryan Lucas Ho Shi Chang",
-            "Tan Jian Feng",
             "Gillian Goh Lixuan",
             "Elijah Chia Kai Feng",
-            "Loke Fai Jun, Jaren"
+            "Loke Fai Jun, Jaren",
+            "Tan Jian Feng",
+            "Ryan Lucas Ho Shi Chang"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -723,8 +710,8 @@
         "name": "Archery",
         "members": [
             "Seah Qiao Ling",
-            "Tan Yi Ning",
             "Yeo Wei Sheng",
+            "Tan Yi Ning",
             "Muhammad Danial Bin Senin"
         ],
         "videoLink": "",
@@ -734,8 +721,8 @@
         "name": "SmartFit: AIoT Fitness Coach",
         "members": [
             "Lim Yu De",
-            "Chong Zi Yuan",
             "Ian Tan Shinn Wei",
+            "Chong Zi Yuan",
             "Edwitt Lim Jun Heng"
         ],
         "videoLink": "",
@@ -744,10 +731,10 @@
     "IS4151-4": {
         "name": "Smart Anti-Loss / Anti-Theft Bag Tag",
         "members": [
-            "Elizabeth Rakhi Baby",
             "Guo Ziniu",
-            "Liu Qinwei",
-            "Foo Lin Xuan"
+            "Elizabeth Rakhi Baby",
+            "Foo Lin Xuan",
+            "Liu Qinwei"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -756,8 +743,8 @@
         "name": "PyroSense AI",
         "members": [
             "Naufal Aditya Dirgandhavi",
-            "Jeganath Yoganandam Pavithra",
             "Khushali Anil Patel",
+            "Jeganath Yoganandam Pavithra",
             "Chaitanya Kaushal"
         ],
         "videoLink": "https://www.youtube.com/shorts/zKgHb5zmlVk",
@@ -766,11 +753,11 @@
     "IS4151-6": {
         "name": "Fresh-Check Smart Storage System",
         "members": [
-            "Choi Ji Won",
-            "Lim Shean Lit, Justin",
             "Yip Rong Yu, Natasha",
+            "Ong Min Chloe",
             "Chloe Tjong Shan Mei",
-            "Ong Min Chloe"
+            "Choi Ji Won",
+            "Lim Shean Lit, Justin"
         ],
         "videoLink": "",
         "posterLink": "https://i.postimg.cc/NFd1NFbZ/Steps-Fresh-Check.png"
@@ -778,10 +765,10 @@
     "IS5126-1": {
         "name": "Twit\u2011Nalytics: A new-age viral tweet predictor",
         "members": [
-            "Kunal Soni",
-            "Wang Yan",
+            "Teo Xuan Wei",
             "Lin Da",
-            "Teo Xuan Wei"
+            "Kunal Soni",
+            "Wang Yan"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -790,22 +777,22 @@
         "name": "MakanMetrics",
         "members": [
             "Tran Thien Nhan",
-            "Reiner Anggriawan Jasin",
+            "Nadia Victoria Aritonang",
             "Chan Chi-Loong",
             "Yeo Zhuan Yu",
-            "Nadia Victoria Aritonang"
+            "Reiner Anggriawan Jasin"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://i.ibb.co/Zkgs5C9/A1-Poster-Makan-Metrics.jpg"
     },
     "IS5126-3": {
         "name": "SONAR (Supply-chain Optimization and Network Analysis for Resilience)",
         "members": [
+            "Daniel Lim Wei Zhong",
             "Chew Jun An Eden",
-            "Xian Jianbo",
-            "Aviral Goyal",
             "Ng Yu Cheng",
-            "Daniel Lim Wei Zhong"
+            "Aviral Goyal",
+            "Xian Jianbo"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -814,8 +801,8 @@
         "name": "TripShield",
         "members": [
             "Xiang,Subing",
-            "Zhang,Zhe",
-            "Zhou,Zikang"
+            "Zhou,Zikang",
+            "Zhang,Zhe"
         ],
         "videoLink": "https://youtu.be/KemtoYXslPU?si=6vW_Ebnr9liOC1pp",
         "posterLink": "https://raw.githubusercontent.com/Carlos779988/steps/refs/heads/main/steps_img.png"
@@ -823,8 +810,8 @@
     "IT5007-2": {
         "name": "The Round Table",
         "members": [
-            "Lim Feng Long",
-            "Ye Xinzhi"
+            "Ye Xinzhi",
+            "Lim Feng Long"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -832,8 +819,8 @@
     "IT5007-3": {
         "name": "Nomie",
         "members": [
-            "Kang Jinyu",
             "Li Jingwen",
+            "Kang Jinyu",
             "Li Zouran"
         ],
         "videoLink": "https://www.youtube.com/watch?v=-vhlqGCD7mY",
@@ -850,9 +837,9 @@
     "IT5007-5": {
         "name": "skillsPulse",
         "members": [
-            "Punyaa",
             "Reuel Alen",
-            "Chou Hui Shan"
+            "Chou Hui Shan",
+            "Punyaa"
         ],
         "videoLink": "https://youtu.be/UcwfhFCPi60",
         "posterLink": ""
@@ -860,8 +847,8 @@
     "IT5007-6": {
         "name": "CosmicVault",
         "members": [
-            "Saw Wei Lin",
             "Noah Lee Supartino",
+            "Saw Wei Lin",
             "Voon Jun Quan"
         ],
         "videoLink": "",
@@ -870,9 +857,9 @@
     "IT5007-7": {
         "name": "ClearFlow",
         "members": [
-            "Yang Zijiang",
             "Wang Ruotong",
-            "Xu Chenhao"
+            "Xu Chenhao",
+            "Yang Zijiang"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -880,8 +867,8 @@
     "IT5007-8": {
         "name": "PawMatch",
         "members": [
-            "Wang Tianhang",
             "Hu Laura",
+            "Wang Tianhang",
             "Xiang Jiajia"
         ],
         "videoLink": "https://youtu.be/stiBJ0pRUaI",
@@ -890,9 +877,9 @@
     "IT5007-9": {
         "name": "BeadWiz",
         "members": [
+            "Sun Weiran",
             "Wang Wenqi",
-            "Chen Yixiao",
-            "Sun Weiran"
+            "Chen Yixiao"
         ],
         "videoLink": "https://www.youtube.com/watch?v=ldt5k4SXEIM",
         "posterLink": "https://i.imgur.com/tKxwmR1.jpg"
@@ -900,8 +887,8 @@
     "IT5007-28": {
         "name": "HealthScan",
         "members": [
-            "Low Shin Yen",
-            "Wu Songrong"
+            "Wu Songrong",
+            "Low Shin Yen"
         ],
         "videoLink": "",
         "posterLink": ""
@@ -909,11 +896,11 @@
     "MComp-1": {
         "name": "Generative Neural Networks for Materials Design and Discovery",
         "members": [
-            "Shao Yanming",
-            "Yanming Shao"
+            "Yanming Shao",
+            "Shao Yanming"
         ],
         "videoLink": "",
-        "posterLink": "https://i.imgur.com/MWiv5kf.jpeg"
+        "posterLink": "https://i.imgur.com/uapMr7v.jpeg"
     },
     "MComp-2": {
         "name": "A Context-Aware Triage Framework for High-Fidelity Vulnerability Management in Automotive Embedded System",
@@ -929,14 +916,14 @@
             "Janavi Vijay Shirke"
         ],
         "videoLink": "",
-        "posterLink": ""
+        "posterLink": "https://imgur.com/a/Fnoyx5J.png"
     },
     "MComp-4": {
         "name": "Phys-FramePackGRPO: Enforcing Newtonian Invariants in Video Generation via Reinforcement Learning",
         "members": [
             "Zhang Yizhuo"
         ],
-        "videoLink": "",
+        "videoLink": "https://youtu.be/kNScyfBHx4I",
         "posterLink": "https://i.imgur.com/LpF0tBP.jpeg"
     },
     "MComp-5": {

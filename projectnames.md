@@ -60,7 +60,7 @@ CS3247-12: Frontier Destiny
 # CS4240 Interaction Design for Virtual and Augmented Reality
 CS4240-1: Ariadne: Embodied LLMs for Collaborative Problem-Solving in XR 
 
-CS4240-2: Memora: Exploring VR's Role in Empowering Communication 
+CS4240-2: Memora: Communicating Memory Across Real and Virtual Worlds 
 
 CS4240-3: VR Handbook: Stage-Based Hand Interaction in VR 
 
@@ -85,7 +85,7 @@ CS4248-10: Improving Text-to-Table Generation with Prompting and Retrieval
 
 CS4248-11: Which Meme Fits Best? A Study of Text, Image, and Multimodal Retrieval 
 
-CS4248-14: 14 
+CS4248-14: LLMao: Lightweight Language Models for Anti-sarcasm Output 
 
 CS4248-21: 21 
 
@@ -95,7 +95,7 @@ CS4248-24: How Do Transformers Capture Sentiment During Text Generation?
 
 CS4248-29: MemeGrounding 
 
-CS4248-30: 30 
+CS4248-30: Beyond the Joke: Unmasking Hateful Memes with CARA 
 
 CS4248-38: LLM Unlearning: Efficient Machine Unlearning for Modern AI 
 
@@ -108,8 +108,6 @@ CS5224-3: Inspira
 
 CS5224-4: McKAInsey 
 
-CS5224-5: Unknown 
-
 CS5224-6: Flow Fox 
 
 # FYP-IP FYP/UROP/CP3106/8, Independent/Personal Projects
@@ -121,7 +119,7 @@ FYP-IP-6: Elephant Reader: Improving learning processes for learners with Dyslex
 
 FYP-IP-7: Panen Ilmu: An AI Platform for Democratizing Agricultural Information Between Farmers and Extension Workers 
 
-FYP-IP-8: A Cross-Lingual Evaluation of Modality Contribution and Fusion Architectures in Multimodal Sentiment Analysis 
+FYP-IP-8: Rethinking Multimodal Sentiment Analysis Across Languages: Modality Contribution, Fusion Effectiveness, and a Novel Hybrid Fusion Architecture 
 
 FYP-IP-9: Torch in Source Academy 
 
