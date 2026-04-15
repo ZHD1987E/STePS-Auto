@@ -69,4 +69,4 @@ with open("results.json", "r", encoding="utf-8") as f_api, \
                 projectNAME = awardsJSON.get(projectKEY, {}).get("name", "")
                 theWinningTeams.write(f"**{awards[e]} ({projectKEY})** - {projectNAME}\n\n")
                 for member in awardsJSON.get(projectKEY, {}).get("members", []):
-                    csvwriter.writerow([courseAwarder, projectNAME, member, awards[e], signer])
+                    csvwriter.writerow([member.title() ,f"({courseCODE}-{winner[0]}) - {projectNAME}", awards[e]])
