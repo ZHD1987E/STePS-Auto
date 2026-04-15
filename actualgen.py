@@ -21,7 +21,7 @@ with open("results.json", "r", encoding="utf-8") as f_api, \
     awardsJSON = json.load(f_teams)
 
     csvwriter = csv.writer(csvDATAFILE)
-    csvwriter.writerow(["Course Names and Heads", "Project Name", "Winner Name", "Award", "Signature"])
+    csvwriter.writerow(["Recepient Name", "Project Name", "Award Title"])
 
     for course in apiJSON:
         courseCODE = course.get("module")
