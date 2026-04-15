@@ -34,16 +34,6 @@ with open("results.json", "r", encoding="utf-8") as f_api, \
         maxAwards = courseELEMENTS.get("PrizeCount", 0)
         hm_check = courseELEMENTS.get("HM", False)
 
-        theWinningTeams.write(f"# {courseAwarder}\n")
-
-        if hm_check:
-            awards = [defaultCERTORDERUNRANKED]
-            maxAwards = 1
-        else:
-            awards = defaultCERTORDERRANKED[:maxAwards]
-
-        signer = gradSIGN if isGraduate else undergradSIGN
-
         courseRESULT = list(course.get("result", {}).items())
         courseRESULT.sort(key=lambda x: x[1], reverse=True)
 
@@ -60,6 +50,16 @@ with open("results.json", "r", encoding="utf-8") as f_api, \
                 current_group.append(item)
         if current_group:
             ranked.append(current_group)
+
+        theWinningTeams.write(f"# {courseAwarder}\n")
+
+        if hm_check:
+            awards = [defaultCERTORDERUNRANKED] * len(ranked)
+            maxAwards = len(ranked)
+        else:
+            awards = defaultCERTORDERRANKED[:maxAwards]
+
+        signer = gradSIGN if isGraduate else undergradSIGN
 
         for e in range(maxAwards):
             if e >= len(ranked):

@@ -87,7 +87,7 @@ CS4248-11: Which Meme Fits Best? A Study of Text, Image, and Multimodal Retrieva
 
 CS4248-14: LLMao: Lightweight Language Models for Anti-sarcasm Output 
 
-CS4248-21: 21 
+CS4248-21: Analysis, Explainability & Extension of Emoji-Text Entailment 
 
 CS4248-23: Satire Generation: Teaching AI the Onion 
 
@@ -106,7 +106,7 @@ CS5224-1: RetailMind
 
 CS5224-3: Inspira 
 
-CS5224-4: McKAInsey 
+CS5224-4: MiroWorld 
 
 CS5224-6: Flow Fox 
 
@@ -121,7 +121,7 @@ FYP-IP-7: Panen Ilmu: An AI Platform for Democratizing Agricultural Information 
 
 FYP-IP-8: Rethinking Multimodal Sentiment Analysis Across Languages: Modality Contribution, Fusion Effectiveness, and a Novel Hybrid Fusion Architecture 
 
-FYP-IP-9: Torch in Source Academy 
+FYP-IP-9: PyTorch in Source Academy 
 
 FYP-IP-10: Browser-based Python-to-WASM Compiler 
 
@@ -145,7 +145,7 @@ IS4151-5: PyroSense AI
 IS4151-6: Fresh-Check Smart Storage System 
 
 # IS5126 Hands-on with Applied Analytics
-IS5126-1: Twit‑Nalytics: A new-age viral tweet predictor 
+IS5126-1: Twit‑Nalytics: A viral tweet predictor 
 
 IS5126-2: MakanMetrics 
 
