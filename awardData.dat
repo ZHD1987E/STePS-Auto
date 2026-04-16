@@ -47,13 +47,13 @@
         "HM":false,
         "AwardingTitle":"FYP-IP Final Year Project and Independent Project (Chair: Dr. Prabhu NATARAJAN)"
     },
-    "IS4151\/IS5451":{
+    "IS4151":{
         "Title":"AIoT Solutions and Development",
         "Instructor":"A\/Prof. Tan Wee Kek",
         "PrizeCount":1,
         "IsGraduate":false,
         "HM":false,
-        "AwardingTitle":"IS4151\/IS5451 AIoT Solutions and Development (Chair: A\/Prof. Tan Wee Kek)"
+        "AwardingTitle":"IS4151 AIoT Solutions and Development (Chair: A\/Prof. Tan Wee Kek)"
     },
     "IS5126":{
         "Title":"Hands-on with Applied Analytics",

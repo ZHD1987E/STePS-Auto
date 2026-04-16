@@ -43,6 +43,9 @@
 
 **Best Project - Silver (FYP-IP-9)** - PyTorch in Source Academy
 
+# IS4151 AIoT Solutions and Development (Chair: A/Prof. Tan Wee Kek)
+**Best Project - Platinum (IS4151-6)** - Fresh-Check Smart Storage System
+
 # IS5126 Hands-on with Applied Analytics (Chair: Dr. Prakash Chandra Sukhwal)
 **Honorable Mention (IS5126-2)** - MakanMetrics
 
